@@ -1,0 +1,1282 @@
+[
+    {
+        "Word": "קָרָא",
+        "Shoresh": "קָרָא",
+        "Translation": "called"
+    },
+    {
+        "Word": "קִדְמַת",
+        "Shoresh": "קֶ֫דֶם",
+        "Translation": "east"
+    },
+    {
+        "Word": "קוֹל",
+        "Shoresh": "קוֹל",
+        "Translation": "a voice"
+    },
+    {
+        "Word": "קֹלְךָ",
+        "Shoresh": "קוֹל",
+        "Translation": "a voice"
+    },
+    {
+        "Word": "קַיִן",
+        "Shoresh": "קַיִן",
+        "Translation": "Cain"
+    },
+    {
+        "Word": "קָנִיתִי",
+        "Shoresh": "קָנָה",
+        "Translation": "acquired"
+    },
+    {
+        "Word": "קָיִן",
+        "Shoresh": "קַיִן",
+        "Translation": "Cain"
+    },
+    {
+        "Word": "קוֹלִי",
+        "Shoresh": "קוֹלִי",
+        "Translation": "my voice"
+    },
+    {
+        "Word": "קָֽיִן",
+        "Shoresh": "קַיִן",
+        "Translation": "Seth"
+    },
+    {
+        "Word": "קֵינָֽן",
+        "Shoresh": "קֵינָן",
+        "Translation": "Cainan"
+    },
+    {
+        "Word": "קֵינָן",
+        "Shoresh": "קֵינָן",
+        "Translation": "five"
+    },
+    {
+        "Word": "קֵץ",
+        "Shoresh": "קֵץ",
+        "Translation": "end"
+    },
+    {
+        "Word": "קִנִּים",
+        "Shoresh": "קֵן",
+        "Translation": "nest"
+    },
+    {
+        "Word": "קוֹמָתָֽהּ",
+        "Shoresh": "קוֹמָה",
+        "Translation": "height"
+    },
+    {
+        "Word": "קַח",
+        "Shoresh": "לָקַח",
+        "Translation": "gathered"
+    },
+    {
+        "Word": "קַלּוּ",
+        "Shoresh": "קָלַל",
+        "Translation": "cursed"
+    },
+    {
+        "Word": "קַשְׁתִּי",
+        "Shoresh": "קַשְׁתִּי",
+        "Translation": "my bow"
+    },
+    {
+        "Word": "קוּם",
+        "Shoresh": "קוּם",
+        "Translation": "arise"
+    },
+    {
+        "Word": "קַרְנַיִם",
+        "Shoresh": "קֶרֶן",
+        "Translation": "horn"
+    },
+    {
+        "Word": "קִרְיָתָֽיִם",
+        "Shoresh": "קִרְיָתַ֫יִם",
+        "Translation": "Horite"
+    },
+    {
+        "Word": "קָדֵשׁ",
+        "Shoresh": "קָדֵשׁ",
+        "Translation": "Kadesh"
+    },
+    {
+        "Word": "קֹנֵה",
+        "Shoresh": "קָנָה",
+        "Translation": "heavens"
+    },
+    {
+        "Word": "קַֽח",
+        "Shoresh": "לָקַח",
+        "Translation": "took"
+    },
+    {
+        "Word": "קְחָה",
+        "Shoresh": "לָקַח",
+        "Translation": "she-goat"
+    },
+    {
+        "Word": "קֶמַח",
+        "Shoresh": "קֶמַח",
+        "Translation": "flour"
+    },
+    {
+        "Word": "קֹרָתִֽי",
+        "Shoresh": "קוֹרָה",
+        "Translation": "beam"
+    },
+    {
+        "Word": "קוּמוּ",
+        "Shoresh": "קוּם",
+        "Translation": "arise"
+    },
+    {
+        "Word": "קְרֹבָה",
+        "Shoresh": "קָרֹב",
+        "Translation": "near"
+    },
+    {
+        "Word": "קִיטֹר",
+        "Shoresh": "קִיטוֹר",
+        "Translation": "vapor"
+    },
+    {
+        "Word": "קָרַב",
+        "Shoresh": "קרב",
+        "Translation": "he approached"
+    },
+    {
+        "Word": "קֶשֶׁת",
+        "Shoresh": "קֶשֶׁת",
+        "Translation": "he saw"
+    },
+    {
+        "Word": "קֹלָהּ",
+        "Shoresh": "קוֹל",
+        "Translation": "he wept"
+    },
+    {
+        "Word": "קַשָּֽׁת",
+        "Shoresh": "קַשָּׁת",
+        "Translation": "bow"
+    },
+    {
+        "Word": "קְמוּאֵל",
+        "Shoresh": "קְמוּאֵל",
+        "Translation": "Kemuel"
+    },
+    {
+        "Word": "קֶבֶר",
+        "Shoresh": "קֶבֶר",
+        "Translation": "grave"
+    },
+    {
+        "Word": "קְבָרֵינוּ",
+        "Shoresh": "קֶ֫בֶר",
+        "Translation": "grave"
+    },
+    {
+        "Word": "קְבֹר",
+        "Shoresh": "קָבַר",
+        "Translation": "buried"
+    },
+    {
+        "Word": "קִבְרוֹ",
+        "Shoresh": "קֶ֫בֶר",
+        "Translation": "grave"
+    },
+    {
+        "Word": "קָֽבֶר",
+        "Shoresh": "קֶ֫בֶר",
+        "Translation": "grave"
+    },
+    {
+        "Word": "קְבֹֽר",
+        "Shoresh": "קָבַר",
+        "Translation": "he buried"
+    },
+    {
+        "Word": "קָבַר",
+        "Shoresh": "קָבַר",
+        "Translation": "he buried"
+    },
+    {
+        "Word": "קָבֶר",
+        "Shoresh": "קֶ֫בֶר",
+        "Translation": "grave"
+    },
+    {
+        "Word": "קְטוּרָֽה",
+        "Shoresh": "קְטוּרָה",
+        "Translation": "Zimran"
+    },
+    {
+        "Word": "קֵדְמָה",
+        "Shoresh": "קֶ֫דֶם",
+        "Translation": "before"
+    },
+    {
+        "Word": "קֶֽדֶם",
+        "Shoresh": "קֶדֶם",
+        "Translation": "east"
+    },
+    {
+        "Word": "קָנָה",
+        "Shoresh": "קָנָה",
+        "Translation": "he bought"
+    },
+    {
+        "Word": "קֻבַּר",
+        "Shoresh": "קבר",
+        "Translation": "tomb"
+    },
+    {
+        "Word": "קָרָֽא",
+        "Shoresh": "קָרָא",
+        "Translation": "He called"
+    },
+    {
+        "Word": "קְלָלָה",
+        "Shoresh": "קְלָלָה",
+        "Translation": "curse"
+    },
+    {
+        "Word": "קִלְלָתְךָ",
+        "Shoresh": "קְלָלָה",
+        "Translation": "curse"
+    },
+    {
+        "Word": "קֽוּם",
+        "Shoresh": "קוּם",
+        "Translation": "arise"
+    },
+    {
+        "Word": "קֹלוֹ",
+        "Shoresh": "קוֹל",
+        "Translation": "voice"
+    },
+    {
+        "Word": "קַצְתִּי",
+        "Shoresh": "קוּץ",
+        "Translation": "thorn"
+    },
+    {
+        "Word": "קָרְאָה",
+        "Shoresh": "קָרָא",
+        "Translation": "call"
+    },
+    {
+        "Word": "קְצִיר",
+        "Shoresh": "קָצִיר",
+        "Translation": "mandrakes"
+    },
+    {
+        "Word": "קַחְתֵּךְ",
+        "Shoresh": "לָקַח",
+        "Translation": "he took"
+    },
+    {
+        "Word": "קִנְיָנוֹ",
+        "Shoresh": "קִנְיָן",
+        "Translation": "possession"
+    },
+    {
+        "Word": "קָטֹנְתִּי",
+        "Shoresh": "קָטֹן",
+        "Translation": "small"
+    },
+    {
+        "Word": "קְשִׂיטָֽה",
+        "Shoresh": "קְשִׂיטָה",
+        "Translation": "a piece of money"
+    },
+    {
+        "Word": "קָֽרָא",
+        "Shoresh": "קָרָא",
+        "Translation": "he called"
+    },
+    {
+        "Word": "קְבֻרָתָהּ",
+        "Shoresh": "קְבֻרָה",
+        "Translation": "burial"
+    },
+    {
+        "Word": "קְבֻֽרַת",
+        "Shoresh": "קְבֻרָה",
+        "Translation": "burial"
+    },
+    {
+        "Word": "קִרְיַת",
+        "Shoresh": "קִרְיָה",
+        "Translation": "city"
+    },
+    {
+        "Word": "קֹרַח",
+        "Shoresh": "קֹרַח",
+        "Translation": "Korah"
+    },
+    {
+        "Word": "קֹֽרַח",
+        "Shoresh": "קֹרַח",
+        "Translation": "Korah"
+    },
+    {
+        "Word": "קְנַֽז",
+        "Shoresh": "קְנַז",
+        "Translation": "Kenaz"
+    },
+    {
+        "Word": "קְנַז",
+        "Shoresh": "קְנַז",
+        "Translation": "Kenaz"
+    },
+    {
+        "Word": "קָמָה",
+        "Shoresh": "קוּם",
+        "Translation": "arise"
+    },
+    {
+        "Word": "קְדֵשָֽׁה",
+        "Shoresh": "קְדֵשָׁה",
+        "Translation": "he found"
+    },
+    {
+        "Word": "קָדִים",
+        "Shoresh": "קָדִים",
+        "Translation": "east"
+    },
+    {
+        "Word": "קָצַף",
+        "Shoresh": "קָצַף",
+        "Translation": "was angry"
+    },
+    {
+        "Word": "קִרְבֶּנָה",
+        "Shoresh": "קֶ֫רֶב",
+        "Translation": "midst"
+    },
+    {
+        "Word": "קָשׁוֹת",
+        "Shoresh": "קָשֶׁה",
+        "Translation": "hard"
+    },
+    {
+        "Word": "קְחוּ",
+        "Shoresh": "לָקַח",
+        "Translation": "walked"
+    },
+    {
+        "Word": "קָחוּ",
+        "Shoresh": "לָקַח",
+        "Translation": "he took"
+    },
+    {
+        "Word": "קָטָן",
+        "Shoresh": "קָטָן",
+        "Translation": "small"
+    },
+    {
+        "Word": "קְשׁוּרָה",
+        "Shoresh": "קָשַׁר",
+        "Translation": "bound"
+    },
+    {
+        "Word": "קָרוֹב",
+        "Shoresh": "קָרוֹבI",
+        "Translation": "near"
+    },
+    {
+        "Word": "קְהָת",
+        "Shoresh": "קְהָת",
+        "Translation": "Kohath"
+    },
+    {
+        "Word": "קְנֵֽה",
+        "Shoresh": "קָנֶה",
+        "Translation": "reed"
+    },
+    {
+        "Word": "קָצֵֽהוּ",
+        "Shoresh": "קָצֶה",
+        "Translation": "end"
+    },
+    {
+        "Word": "קָֽחֶם",
+        "Shoresh": "לָקַח",
+        "Translation": "he took"
+    },
+    {
+        "Word": "קָשָׁתָה",
+        "Shoresh": "קָשָׁה",
+        "Translation": "hard"
+    },
+    {
+        "Word": "קִוִּיתִי",
+        "Shoresh": "קָוָה",
+        "Translation": "waited"
+    },
+    {
+        "Word": "קַשְׁתּוֹ",
+        "Shoresh": "קֶ֫שֶׁת",
+        "Translation": "bow"
+    },
+    {
+        "Word": "קִבְרוּ",
+        "Shoresh": "קָבַר",
+        "Translation": "He buried"
+    },
+    {
+        "Word": "קֽ͏ָבְרוּ",
+        "Shoresh": "",
+        "Translation": "he buried"
+    },
+    {
+        "Word": "קָבְרוּ",
+        "Shoresh": "קָבַר",
+        "Translation": "there"
+    },
+    {
+        "Word": "קָבַרְתִּי",
+        "Shoresh": "קָבַר",
+        "Translation": "Leah"
+    },
+    {
+        "Word": "קָבְרוֹ",
+        "Shoresh": "קָבַר",
+        "Translation": "he buried"
+    },
+    {
+        "Word": "קָשָׁה",
+        "Shoresh": "קָשָׁה",
+        "Translation": "difficult"
+    },
+    {
+        "Word": "קִרְאֶן",
+        "Shoresh": "קָרָא",
+        "Translation": "he called"
+    },
+    {
+        "Word": "קֹדֶשׁ",
+        "Shoresh": "קֹדֶשׁ",
+        "Translation": "holiness"
+    },
+    {
+        "Word": "קַשׁ",
+        "Shoresh": "קַשׁ",
+        "Translation": "straw"
+    },
+    {
+        "Word": "קָשָֽׁה",
+        "Shoresh": "קָשָׁה",
+        "Translation": "hard"
+    },
+    {
+        "Word": "קֹלֹת",
+        "Shoresh": "קוֹל",
+        "Translation": "voice"
+    },
+    {
+        "Word": "קָמוּ",
+        "Shoresh": "קוּם",
+        "Translation": "Arise"
+    },
+    {
+        "Word": "קְהַל",
+        "Shoresh": "קָהָל",
+        "Translation": "assembly"
+    },
+    {
+        "Word": "קִרְבּֽוֹ",
+        "Shoresh": "קֶ֫רֶב",
+        "Translation": "inward part"
+    },
+    {
+        "Word": "קַדֶּשׁ",
+        "Shoresh": "קָדַשׁ",
+        "Translation": "He sanctified"
+    },
+    {
+        "Word": "קְבָרִים",
+        "Shoresh": "קֶ֫בֶר",
+        "Translation": "took"
+    },
+    {
+        "Word": "קָמֶיךָ",
+        "Shoresh": "קוּם",
+        "Translation": "arise"
+    },
+    {
+        "Word": "קָֽפְאוּ",
+        "Shoresh": "קָפָא",
+        "Translation": "congeal"
+    },
+    {
+        "Word": "קָדְשֶֽׁךָ",
+        "Shoresh": "קֹ֫דֶשׁ",
+        "Translation": "holiness"
+    },
+    {
+        "Word": "קָנִֽיתָ",
+        "Shoresh": "קָנָה",
+        "Translation": "acquired"
+    },
+    {
+        "Word": "קִרְבוּ",
+        "Shoresh": "קָרֵב",
+        "Translation": "bring near"
+    },
+    {
+        "Word": "קְצֵה",
+        "Shoresh": "קָצֶה",
+        "Translation": "tenth"
+    },
+    {
+        "Word": "קָדוֹשׁ",
+        "Shoresh": "קָדוֹשׁ",
+        "Translation": "holy"
+    },
+    {
+        "Word": "קֹצִים",
+        "Shoresh": "קוֹץ",
+        "Translation": "stack"
+    },
+    {
+        "Word": "קֹמָתֽוֹ",
+        "Shoresh": "קוֹמָה",
+        "Translation": "height"
+    },
+    {
+        "Word": "קְצוֹת",
+        "Shoresh": "קָצָה",
+        "Translation": "end"
+    },
+    {
+        "Word": "קְצוֹתָֽיו",
+        "Shoresh": "קָצָה",
+        "Translation": "end"
+    },
+    {
+        "Word": "קְּעָרֹתָיו",
+        "Shoresh": "קְעָרָה",
+        "Translation": "bowl"
+    },
+    {
+        "Word": "קָנִים",
+        "Shoresh": "קָנֶה",
+        "Translation": "side"
+    },
+    {
+        "Word": "קְנֵי",
+        "Shoresh": "קְנֵי",
+        "Translation": "lampstand"
+    },
+    {
+        "Word": "קַרְסֵי",
+        "Shoresh": "קֶ֫רֶס",
+        "Translation": "clasp"
+    },
+    {
+        "Word": "קַרְשֵׁי",
+        "Shoresh": "קֶ֫רֶשׁ",
+        "Translation": "board"
+    },
+    {
+        "Word": "קֶרֶשׁ",
+        "Shoresh": "קֶרֶשׁI",
+        "Translation": "board"
+    },
+    {
+        "Word": "קָֽרֶשׁ",
+        "Shoresh": "קֶ֫רֶשׁ",
+        "Translation": "board"
+    },
+    {
+        "Word": "קְרָשִֽׁים",
+        "Shoresh": "קֶרֶשׁI",
+        "Translation": "board"
+    },
+    {
+        "Word": "קְרָשִׁים",
+        "Shoresh": "קֶרֶשׁI",
+        "Translation": "board"
+    },
+    {
+        "Word": "קְלָעִים",
+        "Shoresh": "קֶלַעII",
+        "Translation": "sling"
+    },
+    {
+        "Word": "קְצוֹתָיו",
+        "Shoresh": "קָצָה",
+        "Translation": "end"
+    },
+    {
+        "Word": "קוֹלוֹ",
+        "Shoresh": "קוֹל",
+        "Translation": "voice"
+    },
+    {
+        "Word": "קָדְשֵׁיהֶם",
+        "Shoresh": "קֹ֫דֶשׁ",
+        "Translation": "holiness"
+    },
+    {
+        "Word": "קַרְנֹת",
+        "Shoresh": "קֶרֶן",
+        "Translation": "finger"
+    },
+    {
+        "Word": "קִרְבּוֹ",
+        "Shoresh": "קֶ֫רֶב",
+        "Translation": "inward part"
+    },
+    {
+        "Word": "קָדֹֽשׁ",
+        "Shoresh": "קָדוֹשׁ",
+        "Translation": "holy"
+    },
+    {
+        "Word": "קָֽדָשִׁים",
+        "Shoresh": "קֹ֫דֶשׁ",
+        "Translation": "holiness"
+    },
+    {
+        "Word": "קְטֹרֶת",
+        "Shoresh": "קְטֹרֶת",
+        "Translation": "incense"
+    },
+    {
+        "Word": "קֹמָתוֹ",
+        "Shoresh": "קוֹמָה",
+        "Translation": "height"
+    },
+    {
+        "Word": "קַרְנֹתָֽיו",
+        "Shoresh": "קֶרֶן",
+        "Translation": "horn"
+    },
+    {
+        "Word": "קִירֹתָיו",
+        "Shoresh": "קִיר",
+        "Translation": "wall"
+    },
+    {
+        "Word": "קֹֽדֶשׁ",
+        "Shoresh": "קֹדֶשׁ",
+        "Translation": "sacred"
+    },
+    {
+        "Word": "קֽ͏ָדָשִׁים",
+        "Shoresh": "",
+        "Translation": "visited"
+    },
+    {
+        "Word": "קָרָאתִֽי",
+        "Shoresh": "קָרָא",
+        "Translation": "called"
+    },
+    {
+        "Word": "קְרֹבֽוֹ",
+        "Shoresh": "קָרֹב",
+        "Translation": "near"
+    },
+    {
+        "Word": "קָרַן",
+        "Shoresh": "קָרַן",
+        "Translation": "spoke"
+    },
+    {
+        "Word": "קְרָשָׁיו",
+        "Shoresh": "קֶ֫רֶשׁ",
+        "Translation": "board"
+    },
+    {
+        "Word": "קַלְעֵי",
+        "Shoresh": "קֶ֫לַע",
+        "Translation": "socket"
+    },
+    {
+        "Word": "קְעָרֹתָיו",
+        "Shoresh": "קְעָרָה",
+        "Translation": "firepan"
+    },
+    {
+        "Word": "קֹֽמָתוֹ",
+        "Shoresh": "קוֹמָה",
+        "Translation": "he compounded"
+    },
+    {
+        "Word": "קֽ͏ָדָשִֽׁים",
+        "Shoresh": "",
+        "Translation": "to act as a priest"
+    },
+    {
+        "Word": "קָרְבָּן",
+        "Shoresh": "קָרְבָּן",
+        "Translation": "offering"
+    },
+    {
+        "Word": "קָרְבַּנְכֶֽם",
+        "Shoresh": "קָרְבָּן",
+        "Translation": "offering"
+    },
+    {
+        "Word": "קָרְבָּנוֹ",
+        "Shoresh": "קָרְבָּן",
+        "Translation": "offering"
+    },
+    {
+        "Word": "קָרְבָּנֽוֹ",
+        "Shoresh": "קָרְבָּן",
+        "Translation": "offering"
+    },
+    {
+        "Word": "קִיר",
+        "Shoresh": "קִיר",
+        "Translation": "wall"
+    },
+    {
+        "Word": "קָרְבַּן",
+        "Shoresh": "קָרְבַּן",
+        "Translation": "offering"
+    },
+    {
+        "Word": "קֻמְצוֹ",
+        "Shoresh": "קֹ֫מֶץ",
+        "Translation": "fine flour"
+    },
+    {
+        "Word": "קָרְבָּנֶךָ",
+        "Shoresh": "קָרְבָּן",
+        "Translation": "offering"
+    },
+    {
+        "Word": "קָרְבָּנְךָ",
+        "Shoresh": "קָרְבָּן",
+        "Translation": "offering"
+    },
+    {
+        "Word": "קָלוּי",
+        "Shoresh": "קָלָה",
+        "Translation": "he roasted"
+    },
+    {
+        "Word": "קַרְנוֹת",
+        "Shoresh": "קֶרֶן",
+        "Translation": "horn"
+    },
+    {
+        "Word": "קָדֹשׁ",
+        "Shoresh": "קָדוֹשׁ",
+        "Translation": "holy"
+    },
+    {
+        "Word": "קָרְבְּנֵיהֶם",
+        "Shoresh": "קָרְבָּן",
+        "Translation": "offering"
+    },
+    {
+        "Word": "קְרַב",
+        "Shoresh": "קָרֵב",
+        "Translation": "draw near"
+    },
+    {
+        "Word": "קְדֹשִׁים",
+        "Shoresh": "קָדוֹשׁ",
+        "Translation": "holy"
+    },
+    {
+        "Word": "קֵרֵחַ",
+        "Shoresh": "קֵרֵחַ",
+        "Translation": "bald"
+    },
+    {
+        "Word": "קָאָה",
+        "Shoresh": "קִיא",
+        "Translation": "vomit"
+    },
+    {
+        "Word": "קְצִֽירְךָ",
+        "Shoresh": "קָצִיר",
+        "Translation": "harvest"
+    },
+    {
+        "Word": "קֽ͏ַעֲקַע",
+        "Shoresh": "",
+        "Translation": "he profaned"
+    },
+    {
+        "Word": "קָדְשִֽׁי",
+        "Shoresh": "קֹ֫דֶשׁ",
+        "Translation": "holiness"
+    },
+    {
+        "Word": "קִלֵּל",
+        "Shoresh": "קָלַל",
+        "Translation": "curse"
+    },
+    {
+        "Word": "קָרְחָה",
+        "Shoresh": "קָרְחָהI",
+        "Translation": "baldness"
+    },
+    {
+        "Word": "קָדְשִׁי",
+        "Shoresh": "קֹ֫דֶשׁ",
+        "Translation": "holiness"
+    },
+    {
+        "Word": "קִנְיַן",
+        "Shoresh": "קִנְיָן",
+        "Translation": "possession"
+    },
+    {
+        "Word": "קָדְשֵׁי",
+        "Shoresh": "קֹדֶשׁ",
+        "Translation": "holiness"
+    },
+    {
+        "Word": "קְצִירָהּ",
+        "Shoresh": "קָצִיר",
+        "Translation": "harvest"
+    },
+    {
+        "Word": "קְצִירְכֶם",
+        "Shoresh": "קָצִיר",
+        "Translation": "harvest"
+    },
+    {
+        "Word": "קְצִירְךָ",
+        "Shoresh": "קָצִיר",
+        "Translation": "harvest"
+    },
+    {
+        "Word": "קָנֹה",
+        "Shoresh": "קָנָה",
+        "Translation": "bought"
+    },
+    {
+        "Word": "קֹנֵהוּ",
+        "Shoresh": "קָנָה",
+        "Translation": "he bought"
+    },
+    {
+        "Word": "קֽוֹמְמִיּֽוּת",
+        "Shoresh": "קוֹמְמִיּוּת",
+        "Translation": "uprightness"
+    },
+    {
+        "Word": "קֶרִי",
+        "Shoresh": "קְרִי",
+        "Translation": "desired"
+    },
+    {
+        "Word": "קֶֽרִי",
+        "Shoresh": "קְרִי",
+        "Translation": "walked"
+    },
+    {
+        "Word": "קֹּֽדֶשׁ",
+        "Shoresh": "קֹ֫דֶשׁ",
+        "Translation": "holiness"
+    },
+    {
+        "Word": "קָנָהוּ",
+        "Shoresh": "קָנָה",
+        "Translation": "he bought"
+    },
+    {
+        "Word": "קֹּדֶשׁ",
+        "Shoresh": "קֹ֫דֶשׁ",
+        "Translation": "holiness"
+    },
+    {
+        "Word": "קֶצֶף",
+        "Shoresh": "קֶצֶף",
+        "Translation": "wrath"
+    },
+    {
+        "Word": "קְשׂוֹת",
+        "Shoresh": "קשׂה",
+        "Translation": "hard"
+    },
+    {
+        "Word": "קֳדָשָׁיו",
+        "Shoresh": "קֹ֫דֶשׁ",
+        "Translation": "holiness"
+    },
+    {
+        "Word": "קִנְאָה",
+        "Shoresh": "קִנְאָה",
+        "Translation": "jealousy"
+    },
+    {
+        "Word": "קָרְבָּנָהּ",
+        "Shoresh": "קָרְבָּן",
+        "Translation": "offering"
+    },
+    {
+        "Word": "קְנָאֹת",
+        "Shoresh": "קִנְאָה",
+        "Translation": "jealousy"
+    },
+    {
+        "Word": "קָרְבָּנָם",
+        "Shoresh": "קָרְבָּן",
+        "Translation": "offering"
+    },
+    {
+        "Word": "קְטֹֽרֶת",
+        "Shoresh": "קְטֹרֶת",
+        "Translation": "incense"
+    },
+    {
+        "Word": "קַֽעֲרַת",
+        "Shoresh": "קְעָרָה",
+        "Translation": "bowl"
+    },
+    {
+        "Word": "קַעֲרֹת",
+        "Shoresh": "קְעָרָה",
+        "Translation": "basin"
+    },
+    {
+        "Word": "קֵֽדְמָה",
+        "Shoresh": "קֶ֫דֶם",
+        "Translation": "east"
+    },
+    {
+        "Word": "קוּמָה",
+        "Shoresh": "קוּם",
+        "Translation": "scatter"
+    },
+    {
+        "Word": "קִבְרוֹת",
+        "Shoresh": "קֶ֫בֶר",
+        "Translation": "grave"
+    },
+    {
+        "Word": "קָֽבְרוּ",
+        "Shoresh": "קָבַר",
+        "Translation": "he buried"
+    },
+    {
+        "Word": "קָדֵשָׁה",
+        "Shoresh": "קָדֵשׁ",
+        "Translation": "to consecrate"
+    },
+    {
+        "Word": "קוֹלָם",
+        "Shoresh": "קוֹל",
+        "Translation": "to die"
+    },
+    {
+        "Word": "קָרְעוּ",
+        "Shoresh": "קָרַע",
+        "Translation": "he tore"
+    },
+    {
+        "Word": "קְרִאֵי",
+        "Shoresh": "קָרִיא",
+        "Translation": "called"
+    },
+    {
+        "Word": "קֹרֶח",
+        "Shoresh": "קֹ֫רַח",
+        "Translation": "Korah"
+    },
+    {
+        "Word": "קָדֵֽשׁוּ",
+        "Shoresh": "קָדַשׁ",
+        "Translation": "consecrated"
+    },
+    {
+        "Word": "קֹלֵנוּ",
+        "Shoresh": "קוֹל",
+        "Translation": "voice"
+    },
+    {
+        "Word": "קָצָה",
+        "Shoresh": "קוּץ",
+        "Translation": "he made corrupt"
+    },
+    {
+        "Word": "קָֽבָה",
+        "Shoresh": "קָבַב",
+        "Translation": "curse"
+    },
+    {
+        "Word": "קְטַנָּה",
+        "Shoresh": "קָטָן",
+        "Translation": "small"
+    },
+    {
+        "Word": "קֶדֶם",
+        "Shoresh": "קֶדֶם",
+        "Translation": "east"
+    },
+    {
+        "Word": "קַבֹּה",
+        "Shoresh": "קָבַב",
+        "Translation": "cursed"
+    },
+    {
+        "Word": "קָצֵהוּ",
+        "Shoresh": "קָצֶה",
+        "Translation": "curse"
+    },
+    {
+        "Word": "קֶסֶם",
+        "Shoresh": "קֶסֶם",
+        "Translation": "divination"
+    },
+    {
+        "Word": "קֹב",
+        "Shoresh": "קֹב",
+        "Translation": "curse"
+    },
+    {
+        "Word": "קְרָאתִיךָ",
+        "Shoresh": "קָרָא",
+        "Translation": "he called"
+    },
+    {
+        "Word": "קִנֶּֽךָ",
+        "Shoresh": "קֵן",
+        "Translation": "nest"
+    },
+    {
+        "Word": "קֳבָתָהּ",
+        "Shoresh": "קֵבָה",
+        "Translation": "stomach"
+    },
+    {
+        "Word": "קִנְאָתִי",
+        "Shoresh": "קִנְאָה",
+        "Translation": "jealousy"
+    },
+    {
+        "Word": "קִנֵּא",
+        "Shoresh": "קני",
+        "Translation": "acquired"
+    },
+    {
+        "Word": "קָרְבָּנִי",
+        "Shoresh": "קָרְבָּן",
+        "Translation": "offering"
+    },
+    {
+        "Word": "קַמְתֶּם",
+        "Shoresh": "קוּם",
+        "Translation": "lip"
+    },
+    {
+        "Word": "קְנָת",
+        "Shoresh": "קְנָת",
+        "Translation": "bought"
+    },
+    {
+        "Word": "קָדֵֽשׁ",
+        "Shoresh": "קָדֵשׁ",
+        "Translation": "come"
+    },
+    {
+        "Word": "קֻמוּ",
+        "Shoresh": "קוּם",
+        "Translation": "arise"
+    },
+    {
+        "Word": "קְדֵמוֹת",
+        "Shoresh": "",
+        "Translation": "Sihon"
+    },
+    {
+        "Word": "קָרָבְתָּ",
+        "Shoresh": "קָרֵב",
+        "Translation": "approach"
+    },
+    {
+        "Word": "קְרֹבִים",
+        "Shoresh": "קָרוֹב",
+        "Translation": "near"
+    },
+    {
+        "Word": "קָרְאֵנוּ",
+        "Shoresh": "קָרָא",
+        "Translation": "call"
+    },
+    {
+        "Word": "קֽוֹל",
+        "Shoresh": "קוֹל",
+        "Translation": "voice"
+    },
+    {
+        "Word": "קַנָּֽא",
+        "Shoresh": "קַנָּא",
+        "Translation": "jealous"
+    },
+    {
+        "Word": "קְהַלְכֶם",
+        "Shoresh": "קָהָל",
+        "Translation": "assembly"
+    },
+    {
+        "Word": "קְשִׁי",
+        "Shoresh": "קְשִׁי",
+        "Translation": "wickedness"
+    },
+    {
+        "Word": "קֽ͏ָדָשֶׁיךָ",
+        "Shoresh": "",
+        "Translation": "vow"
+    },
+    {
+        "Word": "קָֽרְבָה",
+        "Shoresh": "קָרְבָה",
+        "Translation": "closeness"
+    },
+    {
+        "Word": "קֹסֵם",
+        "Shoresh": "קֶ֫סֶם",
+        "Translation": "divination"
+    },
+    {
+        "Word": "קְסָמִים",
+        "Shoresh": "קֶסֶם",
+        "Translation": "divination"
+    },
+    {
+        "Word": "קֹסְמִים",
+        "Shoresh": "קָסַם",
+        "Translation": "heard"
+    },
+    {
+        "Word": "קְרֵבִים",
+        "Shoresh": "קָרֵב",
+        "Translation": "drew near"
+    },
+    {
+        "Word": "קָבוֹר",
+        "Shoresh": "קָבוֹר",
+        "Translation": "to be buried"
+    },
+    {
+        "Word": "קִלְלַת",
+        "Shoresh": "קְלָלָה",
+        "Translation": "curse"
+    },
+    {
+        "Word": "קַן",
+        "Shoresh": "*קַן",
+        "Translation": "*nest"
+    },
+    {
+        "Word": "קִדְּמוּ",
+        "Shoresh": "קָדַם",
+        "Translation": "he confronted"
+    },
+    {
+        "Word": "קְדֵשָׁה",
+        "Shoresh": "קְדֵשָׁה",
+        "Translation": "consecrated woman"
+    },
+    {
+        "Word": "קָמַת",
+        "Shoresh": "קָמָה",
+        "Translation": "she stood up"
+    },
+    {
+        "Word": "קָֽרְךָ",
+        "Shoresh": "קָרָה",
+        "Translation": "happened"
+    },
+    {
+        "Word": "קָדְשְׁךָ",
+        "Shoresh": "קֹ֫דֶשׁ",
+        "Translation": "holiness"
+    },
+    {
+        "Word": "קָדְקֳדֶֽךָ",
+        "Shoresh": "קָדְקֹד",
+        "Translation": "crown of the head"
+    },
+    {
+        "Word": "קֹנֶֽה",
+        "Shoresh": "קָנָה",
+        "Translation": "he bought"
+    },
+    {
+        "Word": "קָרְבוּ",
+        "Shoresh": "קָרֵב",
+        "Translation": "draw near"
+    },
+    {
+        "Word": "קְרָא",
+        "Shoresh": "קָרָא",
+        "Translation": "he called"
+    },
+    {
+        "Word": "קָּנֶךָ",
+        "Shoresh": "קָנָה",
+        "Translation": "made"
+    },
+    {
+        "Word": "קִנּוֹ",
+        "Shoresh": "קֵן",
+        "Translation": "nest"
+    },
+    {
+        "Word": "קִנְאוּנִי",
+        "Shoresh": "קָנָא",
+        "Translation": "jealous"
+    },
+    {
+        "Word": "קָדְחָה",
+        "Shoresh": "קָדַח",
+        "Translation": "burned"
+    },
+    {
+        "Word": "קִדַּשְׁתֶּם",
+        "Shoresh": "קָדַשׁ",
+        "Translation": "sanctify"
+    },
+    {
+        "Word": "קְדֹשָׁיו",
+        "Shoresh": "קָדוֹשׁ",
+        "Translation": "speech"
+    },
+    {
+        "Word": "קְטוֹרָה",
+        "Shoresh": "קְטוֹרָה",
+        "Translation": "incense"
+    },
+    {
+        "Word": "קָמָיו",
+        "Shoresh": "קוּם",
+        "Translation": "arise"
+    },
+    {
+        "Word": "קַרְנָיו",
+        "Shoresh": "קֶרֶן",
+        "Translation": "horn"
+    },
+    {
+        "Word": "קָדְקֹֽד",
+        "Shoresh": "קָדְקֹד",
+        "Translation": "crown of the head"
+    },
+    {
+        "Word": "קְבֻרָתוֹ",
+        "Shoresh": "קְבֻרָה",
+        "Translation": "burial"
+    },
+    {
+        "Word": "קָם",
+        "Shoresh": "קוּם",
+        "Translation": "arise"
+    }
+]

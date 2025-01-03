@@ -1,0 +1,4792 @@
+[
+    {
+        "Word": "אֱלֹהִים",
+        "Shoresh": "אֱלֹהִים",
+        "Translation": "Hashem"
+    },
+    {
+        "Word": "אֵת",
+        "Shoresh": "אֵת",
+        "Translation": "the"
+    },
+    {
+        "Word": "אוֹר",
+        "Shoresh": "אוֹר",
+        "Translation": "light"
+    },
+    {
+        "Word": "אֽוֹר",
+        "Shoresh": "אוֹר",
+        "Translation": "light"
+    },
+    {
+        "Word": "אֶת",
+        "Shoresh": "אֵת",
+        "Translation": "the"
+    },
+    {
+        "Word": "אֶחָֽד",
+        "Shoresh": "אֶחָד",
+        "Translation": "one"
+    },
+    {
+        "Word": "אֲשֶׁר",
+        "Shoresh": "אֲשֶׁר",
+        "Translation": "which"
+    },
+    {
+        "Word": "אֶל",
+        "Shoresh": "אַל",
+        "Translation": "not"
+    },
+    {
+        "Word": "אֶחָד",
+        "Shoresh": "אֶחָד",
+        "Translation": "one"
+    },
+    {
+        "Word": "אֶרֶץ",
+        "Shoresh": "אֶרֶץ",
+        "Translation": "land"
+    },
+    {
+        "Word": "אֹתָם",
+        "Shoresh": "אֵת",
+        "Translation": "the"
+    },
+    {
+        "Word": "אָדָם",
+        "Shoresh": "אָדָם",
+        "Translation": "man"
+    },
+    {
+        "Word": "אֹתוֹ",
+        "Shoresh": "אֵת",
+        "Translation": "female"
+    },
+    {
+        "Word": "אֹתָֽם",
+        "Shoresh": "אֵת",
+        "Translation": "subdue"
+    },
+    {
+        "Word": "אֵלֶּה",
+        "Shoresh": "אֵלֶּה",
+        "Translation": "these"
+    },
+    {
+        "Word": "אַיִן",
+        "Shoresh": "אַיִן",
+        "Translation": "there is not"
+    },
+    {
+        "Word": "אֶֽת",
+        "Shoresh": "אֵת",
+        "Translation": "faces of"
+    },
+    {
+        "Word": "אַשּׁוּר",
+        "Shoresh": "אַשּׁוּר",
+        "Translation": "Assyria"
+    },
+    {
+        "Word": "אָכֹל",
+        "Shoresh": "אָכַל",
+        "Translation": "he ate"
+    },
+    {
+        "Word": "אֲכָלְךָ",
+        "Shoresh": "אָכַל",
+        "Translation": "to die"
+    },
+    {
+        "Word": "אֽ͏ֶעֱשֶׂהּ",
+        "Shoresh": "",
+        "Translation": "if only"
+    },
+    {
+        "Word": "אַחַת",
+        "Shoresh": "אַחַת",
+        "Translation": "one"
+    },
+    {
+        "Word": "אִשָּׁה",
+        "Shoresh": "אִשָּׁה",
+        "Translation": "woman"
+    },
+    {
+        "Word": "אִישׁ",
+        "Shoresh": "אִישׁ",
+        "Translation": "father"
+    },
+    {
+        "Word": "אָבִיו",
+        "Shoresh": "אָב",
+        "Translation": "mother"
+    },
+    {
+        "Word": "אִמּוֹ",
+        "Shoresh": "אֵם",
+        "Translation": "he clung"
+    },
+    {
+        "Word": "אַף",
+        "Shoresh": "אַף",
+        "Translation": "also"
+    },
+    {
+        "Word": "אָמַר",
+        "Shoresh": "אֲמַר",
+        "Translation": "he said"
+    },
+    {
+        "Word": "אֲכָלְכֶם",
+        "Shoresh": "אָכַל",
+        "Translation": "he ate"
+    },
+    {
+        "Word": "אַיֶּֽכָּה",
+        "Shoresh": "אַיֶּךָּ",
+        "Translation": "where are you"
+    },
+    {
+        "Word": "אָנֹכִי",
+        "Shoresh": "אָנֹכִי",
+        "Translation": "I"
+    },
+    {
+        "Word": "אָתָּה",
+        "Shoresh": "אַתָּ֫ה",
+        "Translation": "from"
+    },
+    {
+        "Word": "אֲכָל",
+        "Shoresh": "אָכַל",
+        "Translation": "he ate"
+    },
+    {
+        "Word": "אָכָֽלְתָּ",
+        "Shoresh": "אָכַל",
+        "Translation": "he gave"
+    },
+    {
+        "Word": "אֶֽל",
+        "Shoresh": "אַל",
+        "Translation": "not"
+    },
+    {
+        "Word": "אָרוּר",
+        "Shoresh": "אָרוּר",
+        "Translation": "cursed"
+    },
+    {
+        "Word": "אַתָּה",
+        "Shoresh": "אַתָּה",
+        "Translation": "you"
+    },
+    {
+        "Word": "אָשִׁית",
+        "Shoresh": "שִׁית",
+        "Translation": "put"
+    },
+    {
+        "Word": "אַרְבֶּה",
+        "Shoresh": "רָבָה",
+        "Translation": "be many"
+    },
+    {
+        "Word": "אִישֵׁךְ",
+        "Shoresh": "אִישׁ",
+        "Translation": "man"
+    },
+    {
+        "Word": "אֲרוּרָה",
+        "Shoresh": "אָרַר",
+        "Translation": "cursed"
+    },
+    {
+        "Word": "אַפֶּיךָ",
+        "Shoresh": "אַף",
+        "Translation": "anger"
+    },
+    {
+        "Word": "אִשְׁתּוֹ",
+        "Shoresh": "אִשָּׁה",
+        "Translation": "woman"
+    },
+    {
+        "Word": "אֵם",
+        "Shoresh": "אֵם",
+        "Translation": "mother"
+    },
+    {
+        "Word": "אָחִיו",
+        "Shoresh": "אָח",
+        "Translation": "brother"
+    },
+    {
+        "Word": "אֲדָמָֽה",
+        "Shoresh": "אֲדָמָה",
+        "Translation": "ground"
+    },
+    {
+        "Word": "אִם",
+        "Shoresh": "אִם",
+        "Translation": "if"
+    },
+    {
+        "Word": "אֵי",
+        "Shoresh": "אִיII",
+        "Translation": "where?"
+    },
+    {
+        "Word": "אָחִיךָ",
+        "Shoresh": "אָח",
+        "Translation": "brother"
+    },
+    {
+        "Word": "אָחִי",
+        "Shoresh": "אָח",
+        "Translation": "brother"
+    },
+    {
+        "Word": "אָנֹֽכִי",
+        "Shoresh": "אָנֹכִי",
+        "Translation": "I"
+    },
+    {
+        "Word": "אֵלַי",
+        "Shoresh": "אֵל",
+        "Translation": "to"
+    },
+    {
+        "Word": "אֹתִי",
+        "Shoresh": "אֵת",
+        "Translation": "with"
+    },
+    {
+        "Word": "אֶסָּתֵר",
+        "Shoresh": "סָתַר",
+        "Translation": "hid"
+    },
+    {
+        "Word": "אוֹת",
+        "Shoresh": "אוֹתI",
+        "Translation": "struck"
+    },
+    {
+        "Word": "אֲבִי",
+        "Shoresh": "אֲבִי",
+        "Translation": "my father"
+    },
+    {
+        "Word": "אֹהֶל",
+        "Shoresh": "אֹהֶל",
+        "Translation": "tent"
+    },
+    {
+        "Word": "אִמְרָתִי",
+        "Shoresh": "אִמְרָה",
+        "Translation": "saying"
+    },
+    {
+        "Word": "אַחֵר",
+        "Shoresh": "אַחֵר",
+        "Translation": "under"
+    },
+    {
+        "Word": "אֱנוֹשׁ",
+        "Shoresh": "אֱנוֹשׁ",
+        "Translation": "then"
+    },
+    {
+        "Word": "אָז",
+        "Shoresh": "אָז",
+        "Translation": "to writhe"
+    },
+    {
+        "Word": "אֹתֽוֹ",
+        "Shoresh": "אֵת",
+        "Translation": "with"
+    },
+    {
+        "Word": "אֽ͏ַחֲרֵי",
+        "Shoresh": "",
+        "Translation": "a hundred"
+    },
+    {
+        "Word": "אֱנֽוֹשׁ",
+        "Shoresh": "אֱנוֹשׁ",
+        "Translation": "seven"
+    },
+    {
+        "Word": "אַרְבָּעִים",
+        "Shoresh": "אַרְבָּעָהI",
+        "Translation": "four"
+    },
+    {
+        "Word": "אֱלֹהִֽים",
+        "Shoresh": "אֱלֹהִים",
+        "Translation": "eighty"
+    },
+    {
+        "Word": "אֽ͏ֵרְרָהּ",
+        "Shoresh": "",
+        "Translation": "seventy"
+    },
+    {
+        "Word": "אַֽחֲרֵי",
+        "Shoresh": "אַחַר",
+        "Translation": "after"
+    },
+    {
+        "Word": "אַנְשֵׁי",
+        "Shoresh": "אִישׁ",
+        "Translation": "man"
+    },
+    {
+        "Word": "אֶמְחֶה",
+        "Shoresh": "מָחָא",
+        "Translation": "he created"
+    },
+    {
+        "Word": "אֹתָהּ",
+        "Shoresh": "אֵת",
+        "Translation": "with"
+    },
+    {
+        "Word": "אַמָּה",
+        "Shoresh": "אַמָּה",
+        "Translation": "cubit"
+    },
+    {
+        "Word": "אֹרֶךְ",
+        "Shoresh": "אֹ֫רֶךְ",
+        "Translation": "length"
+    },
+    {
+        "Word": "אִתָּךְ",
+        "Shoresh": "אֵת",
+        "Translation": "come"
+    },
+    {
+        "Word": "אֵלֶיךָ",
+        "Shoresh": "אֵל",
+        "Translation": "to"
+    },
+    {
+        "Word": "אֹתְךָ",
+        "Shoresh": "אֵת",
+        "Translation": "with"
+    },
+    {
+        "Word": "אָֽנֹכִי",
+        "Shoresh": "אָנֹכִי",
+        "Translation": "four"
+    },
+    {
+        "Word": "אִתּוֹ",
+        "Shoresh": "אֵת",
+        "Translation": "with"
+    },
+    {
+        "Word": "אֵינֶנָּה",
+        "Shoresh": "אַיִן",
+        "Translation": "there is not"
+    },
+    {
+        "Word": "אִתָּם",
+        "Shoresh": "אֵת",
+        "Translation": "with"
+    },
+    {
+        "Word": "אַךְ",
+        "Shoresh": "אַךְI",
+        "Translation": "surely"
+    },
+    {
+        "Word": "אֲרָרָֽט",
+        "Shoresh": "אֲרָרַט",
+        "Translation": "Ararat"
+    },
+    {
+        "Word": "אֵלָיו",
+        "Shoresh": "אֵל",
+        "Translation": "sent"
+    },
+    {
+        "Word": "אֲחֵרִים",
+        "Shoresh": "אַחֵר",
+        "Translation": "added"
+    },
+    {
+        "Word": "אֲשֶֽׁר",
+        "Shoresh": "אֲשֶׁר",
+        "Translation": "that"
+    },
+    {
+        "Word": "אִתְּךָ",
+        "Shoresh": "אֵת",
+        "Translation": "with"
+    },
+    {
+        "Word": "אִתּֽוֹ",
+        "Shoresh": "אֵת",
+        "Translation": "altar"
+    },
+    {
+        "Word": "אֹסִף",
+        "Shoresh": "יָסַף",
+        "Translation": "he added"
+    },
+    {
+        "Word": "אֶדְרֹשׁ",
+        "Shoresh": "דַּרְיוֹשׁ",
+        "Translation": "Darius"
+    },
+    {
+        "Word": "אֶדְרְשֶׁנּוּ",
+        "Shoresh": "דַּרְיוֹשׁ",
+        "Translation": "Darius"
+    },
+    {
+        "Word": "אִתְּכֶם",
+        "Shoresh": "אֵת",
+        "Translation": "with"
+    },
+    {
+        "Word": "אֽ͏ַחֲרֵיכֶֽם",
+        "Shoresh": "",
+        "Translation": "went out"
+    },
+    {
+        "Word": "אֽוֹת",
+        "Shoresh": "אוֹתI",
+        "Translation": "sign"
+    },
+    {
+        "Word": "אֲנִי",
+        "Shoresh": "אֲנִי",
+        "Translation": "I"
+    },
+    {
+        "Word": "אָהֳלֹֽה",
+        "Shoresh": "אֹהֶל",
+        "Translation": "tent"
+    },
+    {
+        "Word": "אֶחָיו",
+        "Shoresh": "אָח",
+        "Translation": "brother"
+    },
+    {
+        "Word": "אֲחֹרַנִּית",
+        "Shoresh": "אֲחוֹרַנִּית",
+        "Translation": "backward"
+    },
+    {
+        "Word": "אֲבִיהֶם",
+        "Shoresh": "אָב",
+        "Translation": "father"
+    },
+    {
+        "Word": "אֱלֹהֵי",
+        "Shoresh": "אֱלֹהִים",
+        "Translation": "Hashem"
+    },
+    {
+        "Word": "אַחַר",
+        "Shoresh": "אַחַר",
+        "Translation": "after"
+    },
+    {
+        "Word": "אַשְׁכֲּנַז",
+        "Shoresh": "אַשְׁכְּנַז",
+        "Translation": "Ashkenaz"
+    },
+    {
+        "Word": "אֱלִישָׁה",
+        "Shoresh": "אֱלִישָׁה",
+        "Translation": "Elishah"
+    },
+    {
+        "Word": "אִיֵּי",
+        "Shoresh": "אִי",
+        "Translation": "coastland"
+    },
+    {
+        "Word": "אֲחִי",
+        "Shoresh": "אָח",
+        "Translation": "brother"
+    },
+    {
+        "Word": "אֲרָם",
+        "Shoresh": "אֲרָם",
+        "Translation": "Uz"
+    },
+    {
+        "Word": "אַלְמוֹדָד",
+        "Shoresh": "אַלְמוֹדָד",
+        "Translation": "Hazarmaveth"
+    },
+    {
+        "Word": "אוּזָל",
+        "Shoresh": "אוּזָל",
+        "Translation": "Obal"
+    },
+    {
+        "Word": "אֲבִֽימָאֵל",
+        "Shoresh": "אֲבִימָאֵל",
+        "Translation": "Ophir"
+    },
+    {
+        "Word": "אוֹפִר",
+        "Shoresh": "אוֹפִיר",
+        "Translation": "Jobab"
+    },
+    {
+        "Word": "אֶחָת",
+        "Shoresh": "אִישׁ",
+        "Translation": "man"
+    },
+    {
+        "Word": "אֲחָדִֽים",
+        "Shoresh": "אֶחָד",
+        "Translation": "one"
+    },
+    {
+        "Word": "אַרְפַּכְשָׁד",
+        "Shoresh": "אַרְפַּכְשַׁד",
+        "Translation": "Arpachshad"
+    },
+    {
+        "Word": "אַרְפַּכְשַׁד",
+        "Shoresh": "אַרְפַּכְשַׁד",
+        "Translation": "Arpachshad"
+    },
+    {
+        "Word": "אַרְבַּע",
+        "Shoresh": "אַרְבַּע",
+        "Translation": "four"
+    },
+    {
+        "Word": "אַבְרָם",
+        "Shoresh": "אַבְרָם",
+        "Translation": "Abram"
+    },
+    {
+        "Word": "אֵֽשֶׁת",
+        "Shoresh": "אִשָּׁה",
+        "Translation": "woman"
+    },
+    {
+        "Word": "אֲבִֽי",
+        "Shoresh": "אֲבִי",
+        "Translation": "father"
+    },
+    {
+        "Word": "אֵין",
+        "Shoresh": "אַיִן",
+        "Translation": "there is not"
+    },
+    {
+        "Word": "אֵשֶׁת",
+        "Shoresh": "אִשָּׁה",
+        "Translation": "he went out"
+    },
+    {
+        "Word": "אַרְצָה",
+        "Shoresh": "אֶ֫רֶץ",
+        "Translation": "Canaan"
+    },
+    {
+        "Word": "אָבִיךָ",
+        "Shoresh": "אָב",
+        "Translation": "father"
+    },
+    {
+        "Word": "אַרְאֶֽךָּ",
+        "Shoresh": "רָאָה",
+        "Translation": "he saw"
+    },
+    {
+        "Word": "אָאֹר",
+        "Shoresh": "אָרַר",
+        "Translation": "he cursed"
+    },
+    {
+        "Word": "אֵלוֹן",
+        "Shoresh": "אֵלוֹן",
+        "Translation": "oak"
+    },
+    {
+        "Word": "אֶתֵּן",
+        "Shoresh": "נָתַן",
+        "Translation": "this"
+    },
+    {
+        "Word": "אֵלָֽיו",
+        "Shoresh": "אֵל",
+        "Translation": "Hashem"
+    },
+    {
+        "Word": "אֵל",
+        "Shoresh": "אֵל",
+        "Translation": "Hashem"
+    },
+    {
+        "Word": "אָהֳלֹה",
+        "Shoresh": "אֹהֶל",
+        "Translation": "tent"
+    },
+    {
+        "Word": "אָֽתְּ",
+        "Shoresh": "אַתָּ֫ה",
+        "Translation": "you"
+    },
+    {
+        "Word": "אֹתָךְ",
+        "Shoresh": "אֵת",
+        "Translation": "with"
+    },
+    {
+        "Word": "אִמְרִי",
+        "Shoresh": "אִמְרִי",
+        "Translation": "say"
+    },
+    {
+        "Word": "אֲחֹתִי",
+        "Shoresh": "אָחוֹת",
+        "Translation": "sister"
+    },
+    {
+        "Word": "אָתְּ",
+        "Shoresh": "אַתָּ֫ה",
+        "Translation": "you"
+    },
+    {
+        "Word": "אַבְרָֽם",
+        "Shoresh": "אַבְרָם",
+        "Translation": "Abram"
+    },
+    {
+        "Word": "אִשְׁתְּךָ",
+        "Shoresh": "אִשָּׁה",
+        "Translation": "woman"
+    },
+    {
+        "Word": "אָמַרְתָּ",
+        "Shoresh": "אָמַר",
+        "Translation": "said"
+    },
+    {
+        "Word": "אֲנָשִׁים",
+        "Shoresh": "אִישׁ",
+        "Translation": "man"
+    },
+    {
+        "Word": "אַל",
+        "Shoresh": "אַל",
+        "Translation": "not"
+    },
+    {
+        "Word": "אַחִים",
+        "Shoresh": "אָח",
+        "Translation": "brother"
+    },
+    {
+        "Word": "אֲנָֽחְנוּ",
+        "Shoresh": "אֲנַחְנוּ",
+        "Translation": "we"
+    },
+    {
+        "Word": "אָחִֽיו",
+        "Shoresh": "אָח",
+        "Translation": "brother"
+    },
+    {
+        "Word": "אֶתְּנֶנָּה",
+        "Shoresh": "נָתַן",
+        "Translation": "gave"
+    },
+    {
+        "Word": "אֶתְּנֶֽנָּה",
+        "Shoresh": "נָתַן",
+        "Translation": "gave"
+    },
+    {
+        "Word": "אַמְרָפֶל",
+        "Shoresh": "אַמְרָפֶל",
+        "Translation": "Amraphel"
+    },
+    {
+        "Word": "אַרְיוֹךְ",
+        "Shoresh": "אַרְיוֹךְ",
+        "Translation": "Arioch"
+    },
+    {
+        "Word": "אֶלָּסָר",
+        "Shoresh": "אֶלָּסָר",
+        "Translation": "Ellasar"
+    },
+    {
+        "Word": "אַדְמָה",
+        "Shoresh": "אַדְמָה",
+        "Translation": "Admah"
+    },
+    {
+        "Word": "אֵיל",
+        "Shoresh": "אַ֫יִל",
+        "Translation": "ram"
+    },
+    {
+        "Word": "אַרְבָּעָה",
+        "Shoresh": "אַרְבַּע",
+        "Translation": "four"
+    },
+    {
+        "Word": "אָכְלָם",
+        "Shoresh": "אֹ֫כֶל",
+        "Translation": "to go"
+    },
+    {
+        "Word": "אֶשְׁכֹּל",
+        "Shoresh": "אֶשְׁכֹּל",
+        "Translation": "cluster"
+    },
+    {
+        "Word": "אַחַרֵי",
+        "Shoresh": "אַחַר",
+        "Translation": "return"
+    },
+    {
+        "Word": "אֶקַּח",
+        "Shoresh": "לָקַח",
+        "Translation": "took"
+    },
+    {
+        "Word": "אֽ͏ָכְלוּ",
+        "Shoresh": "",
+        "Translation": "lad"
+    },
+    {
+        "Word": "אִתִּי",
+        "Shoresh": "אֵת",
+        "Translation": "soaring"
+    },
+    {
+        "Word": "אֲדֹנָי",
+        "Shoresh": "אֲדֹנָי",
+        "Translation": "he gave"
+    },
+    {
+        "Word": "אֱלִיעֶֽזֶר",
+        "Shoresh": "אֱלִיעֶזֶר",
+        "Translation": "Eliezer"
+    },
+    {
+        "Word": "אֹתִֽי",
+        "Shoresh": "אֵת",
+        "Translation": "with"
+    },
+    {
+        "Word": "אֵדַע",
+        "Shoresh": "יָדַע",
+        "Translation": "he took"
+    },
+    {
+        "Word": "אֽ͏ִירָשֶֽׁנָּה",
+        "Shoresh": "",
+        "Translation": "heifer"
+    },
+    {
+        "Word": "אֵימָה",
+        "Shoresh": "אֵימָה",
+        "Translation": "terror"
+    },
+    {
+        "Word": "אֲבֹתֶיךָ",
+        "Shoresh": "אָב",
+        "Translation": "father"
+    },
+    {
+        "Word": "אֵשׁ",
+        "Shoresh": "אֵשׁ",
+        "Translation": "fire"
+    },
+    {
+        "Word": "אוּלַי",
+        "Shoresh": "אוּלַי",
+        "Translation": "she built"
+    },
+    {
+        "Word": "אִבָּנֶה",
+        "Shoresh": "בָּנָה",
+        "Translation": "from"
+    },
+    {
+        "Word": "אִישָׁהּ",
+        "Shoresh": "אִישׁ",
+        "Translation": "man"
+    },
+    {
+        "Word": "אֵֽי",
+        "Shoresh": "אִיII",
+        "Translation": "where"
+    },
+    {
+        "Word": "אֵלֶיהָ",
+        "Shoresh": "אֵל",
+        "Translation": "Hashem"
+    },
+    {
+        "Word": "אוֹתְךָ",
+        "Shoresh": "אֵת",
+        "Translation": "with"
+    },
+    {
+        "Word": "אַבְרָהָם",
+        "Shoresh": "אַבְרָהָם",
+        "Translation": "Abraham"
+    },
+    {
+        "Word": "אַב",
+        "Shoresh": "אָב",
+        "Translation": "father"
+    },
+    {
+        "Word": "אֹֽתְךָ",
+        "Shoresh": "אֵת",
+        "Translation": "with"
+    },
+    {
+        "Word": "אַחֲרֶיךָ",
+        "Shoresh": "אַחַר",
+        "Translation": "after"
+    },
+    {
+        "Word": "אַחֲרֶֽיךָ",
+        "Shoresh": "אַחַר",
+        "Translation": "after"
+    },
+    {
+        "Word": "אֽ͏ַחֲרֶיךָ",
+        "Shoresh": "",
+        "Translation": "generation"
+    },
+    {
+        "Word": "אֲבָל",
+        "Shoresh": "אֲבָל",
+        "Translation": "but"
+    },
+    {
+        "Word": "אַחֲרָֽיו",
+        "Shoresh": "אַחַר",
+        "Translation": "after"
+    },
+    {
+        "Word": "אָקִים",
+        "Shoresh": "קוּם",
+        "Translation": "arise"
+    },
+    {
+        "Word": "אַבְרָהָֽם",
+        "Shoresh": "אַבְרָהָם",
+        "Translation": "Abraham"
+    },
+    {
+        "Word": "אָֽרְצָה",
+        "Shoresh": "אֶ֫רֶץ",
+        "Translation": "land"
+    },
+    {
+        "Word": "אֵׄלָׄיׄוׄ",
+        "Shoresh": "אֵל",
+        "Translation": "El"
+    },
+    {
+        "Word": "אַיֵּה",
+        "Shoresh": "אַיֵּה",
+        "Translation": "where"
+    },
+    {
+        "Word": "אָשׁוּב",
+        "Shoresh": "שׁוּב",
+        "Translation": "return"
+    },
+    {
+        "Word": "אֹרַח",
+        "Shoresh": "אֹרַח",
+        "Translation": "path"
+    },
+    {
+        "Word": "אֻמְנָם",
+        "Shoresh": "אֻמְנָם",
+        "Translation": "grew old"
+    },
+    {
+        "Word": "אֵלֵד",
+        "Shoresh": "יָלַד",
+        "Translation": "he did wondrously"
+    },
+    {
+        "Word": "אָמָר",
+        "Shoresh": "אָמַר",
+        "Translation": "he said"
+    },
+    {
+        "Word": "אַחֲרָיו",
+        "Shoresh": "אַחַר",
+        "Translation": "righteousness"
+    },
+    {
+        "Word": "אֵֽרֲדָה",
+        "Shoresh": "יָרַד",
+        "Translation": "he went down"
+    },
+    {
+        "Word": "אֵדָֽעָה",
+        "Shoresh": "יָדַע",
+        "Translation": "he knew"
+    },
+    {
+        "Word": "אֶמְצָא",
+        "Shoresh": "מָצָא",
+        "Translation": "found"
+    },
+    {
+        "Word": "אַשְׁחִית",
+        "Shoresh": "שָׁחַת",
+        "Translation": "he destroyed"
+    },
+    {
+        "Word": "אֽ͏ֶעֱשֶׂה",
+        "Shoresh": "",
+        "Translation": "four"
+    },
+    {
+        "Word": "אַפַּיִם",
+        "Shoresh": "אַף",
+        "Translation": "also"
+    },
+    {
+        "Word": "אֲדֹנַי",
+        "Shoresh": "אָדוֹן",
+        "Translation": "master"
+    },
+    {
+        "Word": "אָפָה",
+        "Shoresh": "אָפָה",
+        "Translation": "he lay down"
+    },
+    {
+        "Word": "אֵלֵינוּ",
+        "Shoresh": "אֵל",
+        "Translation": "he knew"
+    },
+    {
+        "Word": "אֲלֵהֶם",
+        "Shoresh": "אֵל",
+        "Translation": "opening"
+    },
+    {
+        "Word": "אַחַי",
+        "Shoresh": "אָח",
+        "Translation": "brother"
+    },
+    {
+        "Word": "אוֹצִֽיאָה",
+        "Shoresh": "יָצָא",
+        "Translation": "he went out"
+    },
+    {
+        "Word": "אֶתְהֶן",
+        "Shoresh": "אֵת",
+        "Translation": "with"
+    },
+    {
+        "Word": "אֲלֵיכֶם",
+        "Shoresh": "אֵל",
+        "Translation": "to"
+    },
+    {
+        "Word": "אֲלֵיהֶם",
+        "Shoresh": "אֵל",
+        "Translation": "to"
+    },
+    {
+        "Word": "אֲנַחְנוּ",
+        "Shoresh": "אֲנַחְנָא",
+        "Translation": "we"
+    },
+    {
+        "Word": "אֲדֹנָֽי",
+        "Shoresh": "אֲדֹנָי",
+        "Translation": "servant"
+    },
+    {
+        "Word": "אוּכַל",
+        "Shoresh": "יָכֹל",
+        "Translation": "he escaped"
+    },
+    {
+        "Word": "אִמָּלְטָה",
+        "Shoresh": "מָלַט",
+        "Translation": "to escape"
+    },
+    {
+        "Word": "אָבִינוּ",
+        "Shoresh": "אָב",
+        "Translation": "father"
+    },
+    {
+        "Word": "אֲבִיהֶן",
+        "Shoresh": "אָב",
+        "Translation": "father"
+    },
+    {
+        "Word": "אָבִיהָ",
+        "Shoresh": "אָב",
+        "Translation": "father"
+    },
+    {
+        "Word": "אֶמֶשׁ",
+        "Shoresh": "אֶמֶשׁ",
+        "Translation": "yesterday"
+    },
+    {
+        "Word": "אָבִי",
+        "Shoresh": "אָבֶה",
+        "Translation": "desire"
+    },
+    {
+        "Word": "אֲבִימֶלֶךְ",
+        "Shoresh": "אֲבִימֶ֫לֶךְ",
+        "Translation": "Abimelech"
+    },
+    {
+        "Word": "אָֽמַר",
+        "Shoresh": "אֲמַר",
+        "Translation": "he said"
+    },
+    {
+        "Word": "אֽוֹתְךָ",
+        "Shoresh": "אֵת",
+        "Translation": "with"
+    },
+    {
+        "Word": "אֵלֶֽיהָ",
+        "Shoresh": "אֵל",
+        "Translation": "to Hashem"
+    },
+    {
+        "Word": "אֵֽינְךָ",
+        "Shoresh": "אַיִן",
+        "Translation": "return"
+    },
+    {
+        "Word": "אָמַרְתִּי",
+        "Shoresh": "אָמַר",
+        "Translation": "he said"
+    },
+    {
+        "Word": "אִשְׁתִּֽי",
+        "Shoresh": "אִשָּׁה",
+        "Translation": "woman"
+    },
+    {
+        "Word": "אָמְנָה",
+        "Shoresh": "אׇמְנָה",
+        "Translation": "truly"
+    },
+    {
+        "Word": "אִמִּי",
+        "Shoresh": "אֵם",
+        "Translation": "mother"
+    },
+    {
+        "Word": "אִשְׁתּֽוֹ",
+        "Shoresh": "אִשָּׁה",
+        "Translation": "woman"
+    },
+    {
+        "Word": "אַרְצִי",
+        "Shoresh": "אַרְצִי",
+        "Translation": "my land"
+    },
+    {
+        "Word": "אֶלֶף",
+        "Shoresh": "אִישׁ",
+        "Translation": "man"
+    },
+    {
+        "Word": "אוֹדֹת",
+        "Shoresh": "אֵד",
+        "Translation": "mist"
+    },
+    {
+        "Word": "אֲמָתֶךָ",
+        "Shoresh": "אָמָה",
+        "Translation": "maidservant"
+    },
+    {
+        "Word": "אֲשִׂימֶנּוּ",
+        "Shoresh": "שׂוּם",
+        "Translation": "put"
+    },
+    {
+        "Word": "אַחַד",
+        "Shoresh": "אֶחָד",
+        "Translation": "to complain"
+    },
+    {
+        "Word": "אֶרְאֶה",
+        "Shoresh": "רָאָה",
+        "Translation": "to die"
+    },
+    {
+        "Word": "אֲשִׂימֶֽנּוּ",
+        "Shoresh": "שׂוּם",
+        "Translation": "place"
+    },
+    {
+        "Word": "אִשָּׁבֵֽעַ",
+        "Shoresh": "שָׁבַע",
+        "Translation": "he reproved"
+    },
+    {
+        "Word": "אֹדוֹת",
+        "Shoresh": "אֹדוֹת",
+        "Translation": "he robbed"
+    },
+    {
+        "Word": "אֲבִימֶֽלֶךְ",
+        "Shoresh": "אֲבִימֶ֫לֶךְ",
+        "Translation": "except"
+    },
+    {
+        "Word": "אֶשֶׁל",
+        "Shoresh": "אֵ֫שֶׁל",
+        "Translation": "many"
+    },
+    {
+        "Word": "אָהַבְתָּ",
+        "Shoresh": "אָהֵב",
+        "Translation": "loved"
+    },
+    {
+        "Word": "אֹמַר",
+        "Shoresh": "אָמַר",
+        "Translation": "said"
+    },
+    {
+        "Word": "אֵלֶֽיךָ",
+        "Shoresh": "אֵל",
+        "Translation": "to"
+    },
+    {
+        "Word": "אֲלֵיכֶֽם",
+        "Shoresh": "אֵל",
+        "Translation": "to"
+    },
+    {
+        "Word": "אַיִל",
+        "Shoresh": "אַיִל",
+        "Translation": "ram"
+    },
+    {
+        "Word": "אֲבָרֶכְךָ",
+        "Shoresh": "בָּרַךְ",
+        "Translation": "he blessed"
+    },
+    {
+        "Word": "אֹיְבָֽיו",
+        "Shoresh": "אָיַב",
+        "Translation": "he was an enemy to"
+    },
+    {
+        "Word": "אָחִֽיךָ",
+        "Shoresh": "אָח",
+        "Translation": "brother"
+    },
+    {
+        "Word": "אֲרָֽם",
+        "Shoresh": "אֲרָם",
+        "Translation": "Aram"
+    },
+    {
+        "Word": "אֲחֻזַּת",
+        "Shoresh": "אֲחֻזָּה",
+        "Translation": "possession"
+    },
+    {
+        "Word": "אֲדֹנִי",
+        "Shoresh": "אֲדֹנָי",
+        "Translation": "my lord"
+    },
+    {
+        "Word": "אַחֲרַי",
+        "Shoresh": "אַחַר",
+        "Translation": "after"
+    },
+    {
+        "Word": "אָשִׁיב",
+        "Shoresh": "שׁוּב",
+        "Translation": "return"
+    },
+    {
+        "Word": "אֲדֹנָיו",
+        "Shoresh": "אֲדֹנָי",
+        "Translation": "my lord"
+    },
+    {
+        "Word": "אֲרַם",
+        "Shoresh": "אֲרָם",
+        "Translation": "Aram"
+    },
+    {
+        "Word": "אַשְׁקֶה",
+        "Shoresh": "שָׁקָה",
+        "Translation": "he gave drink"
+    },
+    {
+        "Word": "אֲדֹנִֽי",
+        "Shoresh": "אֲדֹנָי",
+        "Translation": "he went out"
+    },
+    {
+        "Word": "אֶשְׁאָב",
+        "Shoresh": "שָׁאַב",
+        "Translation": "drew"
+    },
+    {
+        "Word": "אַתְּ",
+        "Shoresh": "אַתְּ",
+        "Translation": "tell"
+    },
+    {
+        "Word": "אָבִיךְ",
+        "Shoresh": "אָבִיךְ",
+        "Translation": "your father"
+    },
+    {
+        "Word": "אֲחֵי",
+        "Shoresh": "אָח",
+        "Translation": "he told"
+    },
+    {
+        "Word": "אָח",
+        "Shoresh": "אָח",
+        "Translation": "brother"
+    },
+    {
+        "Word": "אֲחֹתוֹ",
+        "Shoresh": "אָחוֹת",
+        "Translation": "sister"
+    },
+    {
+        "Word": "אֹכַל",
+        "Shoresh": "אָכַל",
+        "Translation": "word"
+    },
+    {
+        "Word": "אֻלַי",
+        "Shoresh": "אוּלַי",
+        "Translation": "after"
+    },
+    {
+        "Word": "אַחֲרָֽי",
+        "Shoresh": "אַחַר",
+        "Translation": "Hashem"
+    },
+    {
+        "Word": "אֵלָי",
+        "Shoresh": "אֵל",
+        "Translation": "he went"
+    },
+    {
+        "Word": "אָבִֽי",
+        "Shoresh": "אָבֶה",
+        "Translation": "he was innocent"
+    },
+    {
+        "Word": "אֲכַלֶּה",
+        "Shoresh": "כָּלָה",
+        "Translation": "heart"
+    },
+    {
+        "Word": "אַפָּהּ",
+        "Shoresh": "אַף",
+        "Translation": "also"
+    },
+    {
+        "Word": "אֱמֶת",
+        "Shoresh": "אֱמֶת",
+        "Translation": "truth"
+    },
+    {
+        "Word": "אוֹ",
+        "Shoresh": "אוֹI",
+        "Translation": "or"
+    },
+    {
+        "Word": "אֲדֹנֶיךָ",
+        "Shoresh": "אָדוֹן",
+        "Translation": "lord"
+    },
+    {
+        "Word": "אָחִיהָ",
+        "Shoresh": "אָח",
+        "Translation": "mother"
+    },
+    {
+        "Word": "אִתָּנוּ",
+        "Shoresh": "אֵת",
+        "Translation": "ten"
+    },
+    {
+        "Word": "אֵלֵֽךְ",
+        "Shoresh": "הָלַךְ",
+        "Translation": "he went"
+    },
+    {
+        "Word": "אֲחֹתָם",
+        "Shoresh": "אָחוֹת",
+        "Translation": "sister"
+    },
+    {
+        "Word": "אֲנָשָֽׁיו",
+        "Shoresh": "אִישׁ",
+        "Translation": "man"
+    },
+    {
+        "Word": "אֲחֹתֵנוּ",
+        "Shoresh": "אָחוֹת",
+        "Translation": "sister"
+    },
+    {
+        "Word": "אִמּֽוֹ",
+        "Shoresh": "אֵם",
+        "Translation": "incense"
+    },
+    {
+        "Word": "אַשּׁוּרִם",
+        "Shoresh": "אֲשׁוּרִי",
+        "Translation": "Asshurite"
+    },
+    {
+        "Word": "אַשּׁוּרָה",
+        "Shoresh": "אַשּׁוּר",
+        "Translation": "fell"
+    },
+    {
+        "Word": "אֲחוֹת",
+        "Shoresh": "אָחוֹת",
+        "Translation": "prayed"
+    },
+    {
+        "Word": "אַדְמוֹנִי",
+        "Shoresh": "אַדְמוֹנִי",
+        "Translation": "reddish"
+    },
+    {
+        "Word": "אֹחֶזֶת",
+        "Shoresh": "אָחַז",
+        "Translation": "seized"
+    },
+    {
+        "Word": "אֹהָלִֽים",
+        "Shoresh": "אֹהֶל",
+        "Translation": "he loved"
+    },
+    {
+        "Word": "אֹהֶבֶת",
+        "Shoresh": "אָהֵב",
+        "Translation": "Jacob"
+    },
+    {
+        "Word": "אֱדֽוֹם",
+        "Shoresh": "אֱדוֹם",
+        "Translation": "Edom"
+    },
+    {
+        "Word": "אָבִֽיךָ",
+        "Shoresh": "אָב",
+        "Translation": "father"
+    },
+    {
+        "Word": "אִשְׁתִּי",
+        "Shoresh": "אִשָּׁה",
+        "Translation": "woman"
+    },
+    {
+        "Word": "אָֽרְכוּ",
+        "Shoresh": "אָרַךְ",
+        "Translation": "he prolonged"
+    },
+    {
+        "Word": "אָמוּת",
+        "Shoresh": "מוּת",
+        "Translation": "a little"
+    },
+    {
+        "Word": "אָשָֽׁם",
+        "Shoresh": "אָשָׁם",
+        "Translation": "he touched"
+    },
+    {
+        "Word": "אָבִֽיו",
+        "Shoresh": "אָב",
+        "Translation": "father"
+    },
+    {
+        "Word": "אַחֶרֶת",
+        "Shoresh": "אַחֵר",
+        "Translation": "another"
+    },
+    {
+        "Word": "אָהֳלוֹ",
+        "Shoresh": "אֹהֶל",
+        "Translation": "tent"
+    },
+    {
+        "Word": "אָלָה",
+        "Shoresh": "אָלָה",
+        "Translation": "oath"
+    },
+    {
+        "Word": "אֵילֹן",
+        "Shoresh": "אֵלוֹן",
+        "Translation": "oak"
+    },
+    {
+        "Word": "אָמֽוּת",
+        "Shoresh": "מוּת",
+        "Translation": "to die"
+    },
+    {
+        "Word": "אָֽמְרָה",
+        "Shoresh": "אָמַר",
+        "Translation": "he said"
+    },
+    {
+        "Word": "אֹתָֽךְ",
+        "Shoresh": "אֵת",
+        "Translation": "with/the"
+    },
+    {
+        "Word": "אָהֵֽב",
+        "Shoresh": "אָהֵב",
+        "Translation": "he loved"
+    },
+    {
+        "Word": "אָהֵב",
+        "Shoresh": "אָהֵב",
+        "Translation": "he loved"
+    },
+    {
+        "Word": "אִתָּהּ",
+        "Shoresh": "אֵת",
+        "Translation": "with"
+    },
+    {
+        "Word": "אֱלֹהֶיךָ",
+        "Shoresh": "אֱלֹהִים",
+        "Translation": "Hashem"
+    },
+    {
+        "Word": "אָֽנִי",
+        "Shoresh": "אֲנִי",
+        "Translation": "I"
+    },
+    {
+        "Word": "אִמֶּךָ",
+        "Shoresh": "אֵם",
+        "Translation": "mother"
+    },
+    {
+        "Word": "אֹרְרֶיךָ",
+        "Shoresh": "אָרַר",
+        "Translation": "cursed"
+    },
+    {
+        "Word": "אֵפוֹא",
+        "Shoresh": "אֵפוֹא",
+        "Translation": "then"
+    },
+    {
+        "Word": "אָנִי",
+        "Shoresh": "אֲנִי",
+        "Translation": "I"
+    },
+    {
+        "Word": "אָצַלְתָּ",
+        "Shoresh": "אָצַל",
+        "Translation": "master"
+    },
+    {
+        "Word": "אֵבֶל",
+        "Shoresh": "אֵבֶל",
+        "Translation": "mourning"
+    },
+    {
+        "Word": "אָחִֽי",
+        "Shoresh": "אָח",
+        "Translation": "brother"
+    },
+    {
+        "Word": "אֲחָדִים",
+        "Shoresh": "אֶחָד",
+        "Translation": "return"
+    },
+    {
+        "Word": "אֶשְׁכַּל",
+        "Shoresh": "מְשַׁכֶּלֶת",
+        "Translation": "bereaving"
+    },
+    {
+        "Word": "אִמֶּֽךָ",
+        "Shoresh": "אֵם",
+        "Translation": "Hashem"
+    },
+    {
+        "Word": "אָכֵן",
+        "Shoresh": "אָכֵין",
+        "Translation": "I will prepare"
+    },
+    {
+        "Word": "אֲעַשְּׂרֶנּוּ",
+        "Shoresh": "עָשַׂר",
+        "Translation": "tithe"
+    },
+    {
+        "Word": "אַתֶּם",
+        "Shoresh": "אַתֶּם",
+        "Translation": "you (plural)"
+    },
+    {
+        "Word": "אֽ͏ֶעֱבָדְךָ",
+        "Shoresh": "",
+        "Translation": "Rachel"
+    },
+    {
+        "Word": "אֹתָֽהּ",
+        "Shoresh": "אֵת",
+        "Translation": "full"
+    },
+    {
+        "Word": "אֲחֵרֽוֹת",
+        "Shoresh": "אַחֵר",
+        "Translation": "other"
+    },
+    {
+        "Word": "אִישִֽׁי",
+        "Shoresh": "אִישׁ",
+        "Translation": "man"
+    },
+    {
+        "Word": "אִישִׁי",
+        "Shoresh": "אִישׁ",
+        "Translation": "man"
+    },
+    {
+        "Word": "אוֹדֶה",
+        "Shoresh": "יָדָה",
+        "Translation": "thank"
+    },
+    {
+        "Word": "אֲמָתִי",
+        "Shoresh": "אָמָה",
+        "Translation": "maidservant"
+    },
+    {
+        "Word": "אִשְּׁרוּנִי",
+        "Shoresh": "אָשַׁר",
+        "Translation": "wheat"
+    },
+    {
+        "Word": "אָשֵֽׁר",
+        "Shoresh": "אָשֵׁר",
+        "Translation": "he gave"
+    },
+    {
+        "Word": "אָסַף",
+        "Shoresh": "אָסַף",
+        "Translation": "gathered"
+    },
+    {
+        "Word": "אַחֵֽר",
+        "Shoresh": "אַחֵר",
+        "Translation": "another"
+    },
+    {
+        "Word": "אִתִּֽי",
+        "Shoresh": "אֵת",
+        "Translation": "with"
+    },
+    {
+        "Word": "אֶתֶּן",
+        "Shoresh": "נָתַן",
+        "Translation": "gave"
+    },
+    {
+        "Word": "אָשׁוּבָה",
+        "Shoresh": "שׁוּב",
+        "Translation": "return"
+    },
+    {
+        "Word": "אֶרְעֶה",
+        "Shoresh": "רָעָה",
+        "Translation": "pastured"
+    },
+    {
+        "Word": "אֶשְׁמֹֽר",
+        "Shoresh": "שָׁמַר",
+        "Translation": "kept"
+    },
+    {
+        "Word": "אֽ͏ֶעֱבֹר",
+        "Shoresh": "",
+        "Translation": "turn aside"
+    },
+    {
+        "Word": "אֵינֶנּוּ",
+        "Shoresh": "אַיִן",
+        "Translation": "there is not"
+    },
+    {
+        "Word": "אֲבוֹתֶיךָ",
+        "Shoresh": "אָב",
+        "Translation": "father"
+    },
+    {
+        "Word": "אֲבִיכֶן",
+        "Shoresh": "אָב",
+        "Translation": "father"
+    },
+    {
+        "Word": "אֲבִיכֶֽן",
+        "Shoresh": "אָב",
+        "Translation": "father"
+    },
+    {
+        "Word": "אֲבִיכֶם",
+        "Shoresh": "אָב",
+        "Translation": "father"
+    },
+    {
+        "Word": "אָבִֽינוּ",
+        "Shoresh": "אָב",
+        "Translation": "father"
+    },
+    {
+        "Word": "אָכוֹל",
+        "Shoresh": "אָכַל",
+        "Translation": "he ate"
+    },
+    {
+        "Word": "אֱלֹהָֽי",
+        "Shoresh": "אֱלֹהִים",
+        "Translation": "Hashem"
+    },
+    {
+        "Word": "אַחֵינוּ",
+        "Shoresh": "אָח",
+        "Translation": "brother"
+    },
+    {
+        "Word": "אָכָֽלְתִּי",
+        "Shoresh": "אָכַל",
+        "Translation": "he ate"
+    },
+    {
+        "Word": "אֲחַטֶּנָּה",
+        "Shoresh": "חָטָא",
+        "Translation": "he sinned"
+    },
+    {
+        "Word": "אֲכָלַנִי",
+        "Shoresh": "אָכַל",
+        "Translation": "he ate"
+    },
+    {
+        "Word": "אַרְבַּֽע",
+        "Shoresh": "אַרְבַּע",
+        "Translation": "four"
+    },
+    {
+        "Word": "אָֽמֶשׁ",
+        "Shoresh": "אֶ֫מֶשׁ",
+        "Translation": "yesterday"
+    },
+    {
+        "Word": "אָבֶן",
+        "Shoresh": "אֶבֶן",
+        "Translation": "stone"
+    },
+    {
+        "Word": "אֲבָנִים",
+        "Shoresh": "אֶבֶן",
+        "Translation": "stone"
+    },
+    {
+        "Word": "אֶתְהֶם",
+        "Shoresh": "אֵת",
+        "Translation": "with/the"
+    },
+    {
+        "Word": "אֵיטִיב",
+        "Shoresh": "יְטַב",
+        "Translation": "he will be good"
+    },
+    {
+        "Word": "אֲתֹנֹת",
+        "Shoresh": "אָתוֹן",
+        "Translation": "female donkey"
+    },
+    {
+        "Word": "אַחֲרֵֽינוּ",
+        "Shoresh": "אַחַר",
+        "Translation": "after"
+    },
+    {
+        "Word": "אַחֲרֵינוּ",
+        "Shoresh": "אַחַר",
+        "Translation": "after"
+    },
+    {
+        "Word": "אֲכַפְּרָה",
+        "Shoresh": "כפר",
+        "Translation": "to make atonement"
+    },
+    {
+        "Word": "אֲשַֽׁלֵּחֲךָ",
+        "Shoresh": "שָׁלַח",
+        "Translation": "he sent"
+    },
+    {
+        "Word": "אַחֲרֹנִים",
+        "Shoresh": "אַחֲרוֹן",
+        "Translation": "last"
+    },
+    {
+        "Word": "אַחֲרֹנִֽים",
+        "Shoresh": "אַחֲרוֹן",
+        "Translation": "last"
+    },
+    {
+        "Word": "אֶֽתְנָהֲלָה",
+        "Shoresh": "נָהַל",
+        "Translation": "led"
+    },
+    {
+        "Word": "אָבֹא",
+        "Shoresh": "בּוֹא",
+        "Translation": "come"
+    },
+    {
+        "Word": "אַצִּֽיגָה",
+        "Shoresh": "יָצַג",
+        "Translation": "station"
+    },
+    {
+        "Word": "אֹתָנוּ",
+        "Shoresh": "אֵת",
+        "Translation": "with"
+    },
+    {
+        "Word": "אָבִיה",
+        "Shoresh": "אָב",
+        "Translation": "father"
+    },
+    {
+        "Word": "אַחֶיהָ",
+        "Shoresh": "אָח",
+        "Translation": "brother"
+    },
+    {
+        "Word": "אֶתֵּֽן",
+        "Shoresh": "נָתַן",
+        "Translation": "gave"
+    },
+    {
+        "Word": "אֲחֹתָֽם",
+        "Shoresh": "אָחוֹת",
+        "Translation": "sister"
+    },
+    {
+        "Word": "אֵחַר",
+        "Shoresh": "אָחַר",
+        "Translation": "he lingered"
+    },
+    {
+        "Word": "אִתָּֽנוּ",
+        "Shoresh": "אֵת",
+        "Translation": "with"
+    },
+    {
+        "Word": "אֲחוֹתָֽם",
+        "Shoresh": "אָחוֹת",
+        "Translation": "sister"
+    },
+    {
+        "Word": "אֲחוֹתֵֽנוּ",
+        "Shoresh": "אָחוֹת",
+        "Translation": "sister"
+    },
+    {
+        "Word": "אַלּוֹן",
+        "Shoresh": "אַלּוֹן",
+        "Translation": "oak"
+    },
+    {
+        "Word": "אֵֽל",
+        "Shoresh": "אֵל",
+        "Translation": "Hashem"
+    },
+    {
+        "Word": "אֶפְרָתָה",
+        "Shoresh": "אֶפְרָת",
+        "Translation": "Ephrath"
+    },
+    {
+        "Word": "אוֹנִי",
+        "Shoresh": "אוֹן",
+        "Translation": "strength"
+    },
+    {
+        "Word": "אָֽהֳלֹה",
+        "Shoresh": "אֹהֶל",
+        "Translation": "tent"
+    },
+    {
+        "Word": "אֵילוֹן",
+        "Shoresh": "אֵלוֹן",
+        "Translation": "oak"
+    },
+    {
+        "Word": "אָהֳלִֽיבָמָה",
+        "Shoresh": "אָהֳלִיבָמָה",
+        "Translation": "Oholibamah"
+    },
+    {
+        "Word": "אֱלִיפָז",
+        "Shoresh": "אֱלִיפַז",
+        "Translation": "Basemath"
+    },
+    {
+        "Word": "אֱדוֹם",
+        "Shoresh": "אֱדוֹם",
+        "Translation": "Seir"
+    },
+    {
+        "Word": "אֱלִיפַז",
+        "Shoresh": "אֱלִיפַז",
+        "Translation": "Reuel"
+    },
+    {
+        "Word": "אוֹמָר",
+        "Shoresh": "אוֹמָר",
+        "Translation": "Zepho"
+    },
+    {
+        "Word": "אָהֳלִיבָמָה",
+        "Shoresh": "אָהֳלִיבָמָה",
+        "Translation": "Oholibamah"
+    },
+    {
+        "Word": "אַלּוּפֵי",
+        "Shoresh": "אַלּוּף",
+        "Translation": "chieftain"
+    },
+    {
+        "Word": "אַלּוּף",
+        "Shoresh": "אַלּוּף",
+        "Translation": "chieftain"
+    },
+    {
+        "Word": "אַלּֽוּף",
+        "Shoresh": "אַלּוּף",
+        "Translation": "chieftain"
+    },
+    {
+        "Word": "אָֽהֳלִיבָמָה",
+        "Shoresh": "אָהֳלִיבָמָה",
+        "Translation": "Oholibamah"
+    },
+    {
+        "Word": "אַלּוּפֵיהֶם",
+        "Shoresh": "אַלּוּף",
+        "Translation": "chieftain"
+    },
+    {
+        "Word": "אֵצֶר",
+        "Shoresh": "אֵ֫צֶר",
+        "Translation": "Bilhan"
+    },
+    {
+        "Word": "אֵלָה",
+        "Shoresh": "אֵלָה",
+        "Translation": "terebinth"
+    },
+    {
+        "Word": "אֲחֻזָּתָם",
+        "Shoresh": "אֲחֻזָּה",
+        "Translation": "possession"
+    },
+    {
+        "Word": "אֲבִיהֶֽם",
+        "Shoresh": "אָב",
+        "Translation": "father"
+    },
+    {
+        "Word": "אָהַב",
+        "Shoresh": "אָהַב",
+        "Translation": "he loved"
+    },
+    {
+        "Word": "אֲלֻמִּים",
+        "Shoresh": "אֲלֻמָּה",
+        "Translation": "sheaf"
+    },
+    {
+        "Word": "אֲלֻמָּתִי",
+        "Shoresh": "אֲלֻמָּה",
+        "Translation": "sheaf"
+    },
+    {
+        "Word": "אֲלֻמֹּתֵיכֶם",
+        "Shoresh": "אֲלֻמָּה",
+        "Translation": "sheaf"
+    },
+    {
+        "Word": "אֶׄתׄ",
+        "Shoresh": "אֵת",
+        "Translation": "with"
+    },
+    {
+        "Word": "אַחֶיךָ",
+        "Shoresh": "אָח",
+        "Translation": "brother"
+    },
+    {
+        "Word": "אֵיפֹה",
+        "Shoresh": "אֵיפֹה",
+        "Translation": "where"
+    },
+    {
+        "Word": "אֹֽמְרִים",
+        "Shoresh": "אָמַר",
+        "Translation": "said"
+    },
+    {
+        "Word": "אֲכָלָתְהוּ",
+        "Shoresh": "אָכַל",
+        "Translation": "he ate"
+    },
+    {
+        "Word": "אֹרְחַת",
+        "Shoresh": "אֹרְחָה",
+        "Translation": "caravan"
+    },
+    {
+        "Word": "אָחִינוּ",
+        "Shoresh": "אָח",
+        "Translation": "he covered"
+    },
+    {
+        "Word": "אֶחָֽיו",
+        "Shoresh": "אָח",
+        "Translation": "he passed over"
+    },
+    {
+        "Word": "אָנָה",
+        "Shoresh": "אָנָה",
+        "Translation": "he was afflicted"
+    },
+    {
+        "Word": "אֵרֵד",
+        "Shoresh": "יָרַד",
+        "Translation": "Sheol"
+    },
+    {
+        "Word": "אָבֵל",
+        "Shoresh": "אָבֵל",
+        "Translation": "wept"
+    },
+    {
+        "Word": "אוֹנָֽן",
+        "Shoresh": "אוֹנָן",
+        "Translation": "Onan"
+    },
+    {
+        "Word": "אוֹנָן",
+        "Shoresh": "אוֹנָן",
+        "Translation": "Onan"
+    },
+    {
+        "Word": "אַלְמָנָה",
+        "Shoresh": "אַלְמָנָה",
+        "Translation": "widow"
+    },
+    {
+        "Word": "אָבִֽיהָ",
+        "Shoresh": "אָב",
+        "Translation": "father"
+    },
+    {
+        "Word": "אַלְמְנוּתָהּ",
+        "Shoresh": "אַלְמָנוּת",
+        "Translation": "widowhood"
+    },
+    {
+        "Word": "אָבוֹא",
+        "Shoresh": "בּוֹא",
+        "Translation": "to"
+    },
+    {
+        "Word": "אֵלַיִךְ",
+        "Shoresh": "אֵל",
+        "Translation": "daughter-in-law"
+    },
+    {
+        "Word": "אֵלָֽי",
+        "Shoresh": "אֵל",
+        "Translation": "he sent"
+    },
+    {
+        "Word": "אֲשַׁלַּח",
+        "Shoresh": "שָׁלַח",
+        "Translation": "young goat"
+    },
+    {
+        "Word": "אַלְמְנוּתָֽהּ",
+        "Shoresh": "אַלְמָנוּת",
+        "Translation": "young goat"
+    },
+    {
+        "Word": "אוֹכֵל",
+        "Shoresh": "אָכַל",
+        "Translation": "he ate"
+    },
+    {
+        "Word": "אוֹתָךְ",
+        "Shoresh": "אֵת",
+        "Translation": "with"
+    },
+    {
+        "Word": "אֶֽעֱשֶׂה",
+        "Shoresh": "עָשָׂה",
+        "Translation": "he made"
+    },
+    {
+        "Word": "אֶצְלָהּ",
+        "Shoresh": "אֵ֫צֶל",
+        "Translation": "near"
+    },
+    {
+        "Word": "אֶצְלִי",
+        "Shoresh": "אֵ֫צֶל",
+        "Translation": "beside"
+    },
+    {
+        "Word": "אַפּֽוֹ",
+        "Shoresh": "אַף",
+        "Translation": "also"
+    },
+    {
+        "Word": "אֲדֹנֵי",
+        "Shoresh": "אָדוֹן",
+        "Translation": "lord"
+    },
+    {
+        "Word": "אֲסוּרִים",
+        "Shoresh": "אָסַר",
+        "Translation": "kindness"
+    },
+    {
+        "Word": "אָסוּר",
+        "Shoresh": "סוּר",
+        "Translation": "turn away"
+    },
+    {
+        "Word": "אַשְׁכְּלֹתֶיהָ",
+        "Shoresh": "אֶשְׁכּוֹל",
+        "Translation": "grape"
+    },
+    {
+        "Word": "אֹפֶה",
+        "Shoresh": "אָפָה",
+        "Translation": "baked"
+    },
+    {
+        "Word": "אֹכֵל",
+        "Shoresh": "אָכַל",
+        "Translation": "ate"
+    },
+    {
+        "Word": "אֲחֵרוֹת",
+        "Shoresh": "אַחֵר",
+        "Translation": "another"
+    },
+    {
+        "Word": "אַחֲרֵיהֶן",
+        "Shoresh": "אַחַר",
+        "Translation": "after"
+    },
+    {
+        "Word": "אֵצֶל",
+        "Shoresh": "אֵצֶל",
+        "Translation": "beside"
+    },
+    {
+        "Word": "אַחֲרֵיהֶֽן",
+        "Shoresh": "אַחַר",
+        "Translation": "after"
+    },
+    {
+        "Word": "אוֹתָם",
+        "Shoresh": "אֵת",
+        "Translation": "with/direct object marker"
+    },
+    {
+        "Word": "אַחֲרֵיהֶֽם",
+        "Shoresh": "אַחַר",
+        "Translation": "after"
+    },
+    {
+        "Word": "אֹכֶל",
+        "Shoresh": "אֹכֶל",
+        "Translation": "food"
+    },
+    {
+        "Word": "אֶגְדַּל",
+        "Shoresh": "גָּדַל",
+        "Translation": "grew"
+    },
+    {
+        "Word": "אַבְרֵךְ",
+        "Shoresh": "אַבְרֵךְ",
+        "Translation": "to kneel"
+    },
+    {
+        "Word": "אָֽסְנַת",
+        "Shoresh": "אָֽסְנַת",
+        "Translation": "Pharaoh"
+    },
+    {
+        "Word": "אֹן",
+        "Shoresh": "אוֹן",
+        "Translation": "he crossed over"
+    },
+    {
+        "Word": "אֶפְרָיִם",
+        "Shoresh": "אֶפְרַ֫יִם",
+        "Translation": "Ephraim"
+    },
+    {
+        "Word": "אֲחֵֽי",
+        "Shoresh": "אָח",
+        "Translation": "brother"
+    },
+    {
+        "Word": "אָסֽוֹן",
+        "Shoresh": "אָסוֹן",
+        "Translation": "disaster"
+    },
+    {
+        "Word": "אֹֽכֶל",
+        "Shoresh": "אֹכֶל",
+        "Translation": "food"
+    },
+    {
+        "Word": "אֵינֶֽנּוּ",
+        "Shoresh": "אַיִן",
+        "Translation": "there is not"
+    },
+    {
+        "Word": "אֲלֵכֶם",
+        "Shoresh": "אֵל",
+        "Translation": "to Hashem"
+    },
+    {
+        "Word": "אַתֶּֽם",
+        "Shoresh": "אַתֶּם",
+        "Translation": "you(masc. pl.)"
+    },
+    {
+        "Word": "אֲחִיכֶם",
+        "Shoresh": "אָח",
+        "Translation": "brother"
+    },
+    {
+        "Word": "אֲשֵׁמִים",
+        "Shoresh": "אָשַׁם",
+        "Translation": "to be guilty"
+    },
+    {
+        "Word": "אַמְתַּחְתּֽוֹ",
+        "Shoresh": "אַמְתַּ֫חַת",
+        "Translation": "bag"
+    },
+    {
+        "Word": "אֲנָחְנוּ",
+        "Shoresh": "אֲנַחְנוּ",
+        "Translation": "we"
+    },
+    {
+        "Word": "אֲבִיאֶנּוּ",
+        "Shoresh": "בּוֹא",
+        "Translation": "to come"
+    },
+    {
+        "Word": "אֲשִׁיבֶנּוּ",
+        "Shoresh": "שׁוּב",
+        "Translation": "to return"
+    },
+    {
+        "Word": "אָסוֹן",
+        "Shoresh": "אָסוֹן",
+        "Translation": "disaster"
+    },
+    {
+        "Word": "אִתְּכֶֽם",
+        "Shoresh": "אֵת",
+        "Translation": "with"
+    },
+    {
+        "Word": "אֵינְךָ",
+        "Shoresh": "אַיִן",
+        "Translation": "there is not"
+    },
+    {
+        "Word": "אָֽח",
+        "Shoresh": "אָח",
+        "Translation": "brother"
+    },
+    {
+        "Word": "אֲחִיכֶֽם",
+        "Shoresh": "אָח",
+        "Translation": "brother"
+    },
+    {
+        "Word": "אֽ͏ֶעֶרְבֶנּוּ",
+        "Shoresh": "",
+        "Translation": "he sought"
+    },
+    {
+        "Word": "אַמְתְּחֹֽתֵיכֶם",
+        "Shoresh": "אַמְתַּ֫חַת",
+        "Translation": "sack"
+    },
+    {
+        "Word": "אַמְתְּחֹתֵינוּ",
+        "Shoresh": "אַמְתַּ֫חַת",
+        "Translation": "sack"
+    },
+    {
+        "Word": "אַמְתַּחְתּוֹ",
+        "Shoresh": "אַמְתַּ֫חַת",
+        "Translation": "sack"
+    },
+    {
+        "Word": "אֱלֹהֵיכֶם",
+        "Shoresh": "אֱלֹהִים",
+        "Translation": "Hashem"
+    },
+    {
+        "Word": "אֲמַרְתֶּם",
+        "Shoresh": "דָבַר",
+        "Translation": "spoke"
+    },
+    {
+        "Word": "אַמְתְּחֹת",
+        "Shoresh": "אַמְתַּ֫חַת",
+        "Translation": "sack"
+    },
+    {
+        "Word": "אַמְתַּחַת",
+        "Shoresh": "אַמְתַּ֫חַת",
+        "Translation": "sack"
+    },
+    {
+        "Word": "אָרְצָה",
+        "Shoresh": "אֶ֫רֶץ",
+        "Translation": "he opened"
+    },
+    {
+        "Word": "אֲבִיכֶֽם",
+        "Shoresh": "אָב",
+        "Translation": "father"
+    },
+    {
+        "Word": "אַפְּךָ",
+        "Shoresh": "אַף",
+        "Translation": "also"
+    },
+    {
+        "Word": "אָב",
+        "Shoresh": "אָבI",
+        "Translation": "my father"
+    },
+    {
+        "Word": "אֲהֵבֽוֹ",
+        "Shoresh": "אָהֵב",
+        "Translation": "loved"
+    },
+    {
+        "Word": "אֵיךְ",
+        "Shoresh": "אֵיךְ",
+        "Translation": "how"
+    },
+    {
+        "Word": "אֶֽעֱלֶה",
+        "Shoresh": "עָלָה",
+        "Translation": "went up"
+    },
+    {
+        "Word": "אַֽל",
+        "Shoresh": "אַל",
+        "Translation": "not"
+    },
+    {
+        "Word": "אֱמֹר",
+        "Shoresh": "אָמַר",
+        "Translation": "said"
+    },
+    {
+        "Word": "אֵֽלְכָה",
+        "Shoresh": "הָלַךְ",
+        "Translation": "he walked"
+    },
+    {
+        "Word": "אֲשִֽׂימְךָ",
+        "Shoresh": "שׂוּם",
+        "Translation": "put"
+    },
+    {
+        "Word": "אַֽעַלְךָ",
+        "Shoresh": "עָלָה",
+        "Translation": "he went up"
+    },
+    {
+        "Word": "אָשֵׁר",
+        "Shoresh": "אָשֵׁר",
+        "Translation": "Asher"
+    },
+    {
+        "Word": "אֶפְרָֽיִם",
+        "Shoresh": "אֶפְרַ֫יִם",
+        "Translation": "Ephraim"
+    },
+    {
+        "Word": "אֵחִי",
+        "Shoresh": "אֵחִי",
+        "Translation": "my brother"
+    },
+    {
+        "Word": "אָמוּתָה",
+        "Shoresh": "מוּת",
+        "Translation": "to die"
+    },
+    {
+        "Word": "אֶעֱלֶה",
+        "Shoresh": "עָלָה",
+        "Translation": "he went up"
+    },
+    {
+        "Word": "אֲבֹתֵינוּ",
+        "Shoresh": "אָב",
+        "Translation": "father"
+    },
+    {
+        "Word": "אֲבוֹתֵֽינוּ",
+        "Shoresh": "אָב",
+        "Translation": "father"
+    },
+    {
+        "Word": "אֲבֹתַי",
+        "Shoresh": "אָב",
+        "Translation": "father"
+    },
+    {
+        "Word": "אֲחֻזָּה",
+        "Shoresh": "אֲחֻזָּה",
+        "Translation": "possession"
+    },
+    {
+        "Word": "אָפֵס",
+        "Shoresh": "אָפֵס",
+        "Translation": "to cease"
+    },
+    {
+        "Word": "אַדְמָתֵנוּ",
+        "Shoresh": "אֲדָמָה",
+        "Translation": "ground"
+    },
+    {
+        "Word": "אַדְמַת",
+        "Shoresh": "אֲדָמָה",
+        "Translation": "ground"
+    },
+    {
+        "Word": "אַדְמָתָֽם",
+        "Shoresh": "אֲדָמָה",
+        "Translation": "ground"
+    },
+    {
+        "Word": "אֶתְכֶם",
+        "Shoresh": "אֵת",
+        "Translation": "with"
+    },
+    {
+        "Word": "אַדְמַתְכֶם",
+        "Shoresh": "אֲדָמָה",
+        "Translation": "ground"
+    },
+    {
+        "Word": "אֶפְרַיִם",
+        "Shoresh": "אֶפְרַיִם",
+        "Translation": "Ephraim"
+    },
+    {
+        "Word": "אַחֲרֵיהֶם",
+        "Shoresh": "אַחַר",
+        "Translation": "after"
+    },
+    {
+        "Word": "אֲחֵיהֶם",
+        "Shoresh": "אָח",
+        "Translation": "brother"
+    },
+    {
+        "Word": "אֶפְרָת",
+        "Shoresh": "אֶפְרָת",
+        "Translation": "Ephrath"
+    },
+    {
+        "Word": "אֵֽלֶּה",
+        "Shoresh": "אֵלֶּה",
+        "Translation": "these"
+    },
+    {
+        "Word": "אֲבֹתֵיכֶֽם",
+        "Shoresh": "אָב",
+        "Translation": "father"
+    },
+    {
+        "Word": "אַפָּם",
+        "Shoresh": "אַף",
+        "Translation": "also"
+    },
+    {
+        "Word": "אֲחַלְּקֵם",
+        "Shoresh": "חָלַק",
+        "Translation": "divide"
+    },
+    {
+        "Word": "אֹיְבֶיךָ",
+        "Shoresh": "אָיַב",
+        "Translation": "he was an enemy"
+    },
+    {
+        "Word": "אַרְיֵה",
+        "Shoresh": "אֲרִידָתָא",
+        "Translation": "Aridatha"
+    },
+    {
+        "Word": "אֹסְרִי",
+        "Shoresh": "אָסַר",
+        "Translation": "he bound"
+    },
+    {
+        "Word": "אֲתֹנוֹ",
+        "Shoresh": "אָתוֹן",
+        "Translation": "wine"
+    },
+    {
+        "Word": "אֳנִיּוֹת",
+        "Shoresh": "אֳנִיָּה",
+        "Translation": "ship"
+    },
+    {
+        "Word": "אָחֽוֹר",
+        "Shoresh": "אָחוֹר",
+        "Translation": "back"
+    },
+    {
+        "Word": "אַיָּלָה",
+        "Shoresh": "אַיָּלָה",
+        "Translation": "hind"
+    },
+    {
+        "Word": "אִמְרֵי",
+        "Shoresh": "אֵמֶר",
+        "Translation": "saying"
+    },
+    {
+        "Word": "אֲבִיר",
+        "Shoresh": "אָבִיר",
+        "Translation": "mighty one"
+    },
+    {
+        "Word": "אֶבֶן",
+        "Shoresh": "אֶבֶן",
+        "Translation": "stone"
+    },
+    {
+        "Word": "אֲבֹתָי",
+        "Shoresh": "אָב",
+        "Translation": "father"
+    },
+    {
+        "Word": "אֶֽרֶץ",
+        "Shoresh": "אֶרֶץ",
+        "Translation": "he forsook"
+    },
+    {
+        "Word": "אֵֽבֶל",
+        "Shoresh": "אֵבֶל",
+        "Translation": "mourning"
+    },
+    {
+        "Word": "אָנָּא",
+        "Shoresh": "אָנָּא",
+        "Translation": "please"
+    },
+    {
+        "Word": "אֲכַלְכֵּל",
+        "Shoresh": "כּוּל",
+        "Translation": "little ones"
+    },
+    {
+        "Word": "אֲלֵיהֶן",
+        "Shoresh": "אֵל",
+        "Translation": "Hashem"
+    },
+    {
+        "Word": "אֲלֵהֶן",
+        "Shoresh": "אֵל",
+        "Translation": "Hashem"
+    },
+    {
+        "Word": "אֲמָתָהּ",
+        "Shoresh": "אָמָה",
+        "Translation": "he took"
+    },
+    {
+        "Word": "אֹמֵר",
+        "Shoresh": "אָמַר",
+        "Translation": "said"
+    },
+    {
+        "Word": "אֲבִיהֶֽן",
+        "Shoresh": "אָב",
+        "Translation": "father"
+    },
+    {
+        "Word": "אֻכָּֽל",
+        "Shoresh": "אָכַל",
+        "Translation": "he ate"
+    },
+    {
+        "Word": "אָסֻֽרָה",
+        "Shoresh": "סוּר",
+        "Translation": "turn aside"
+    },
+    {
+        "Word": "אֵלֵךְ",
+        "Shoresh": "הָלַךְ",
+        "Translation": "he went"
+    },
+    {
+        "Word": "אוֹצִיא",
+        "Shoresh": "יָצָא",
+        "Translation": "he went out"
+    },
+    {
+        "Word": "אֶֽהְיֶה",
+        "Shoresh": "אֶהְיֶה",
+        "Translation": "I will be"
+    },
+    {
+        "Word": "אֲבוֹתֵיכֶם",
+        "Shoresh": "אָב",
+        "Translation": "father"
+    },
+    {
+        "Word": "אֲלֵהֶֽם",
+        "Shoresh": "אֵל",
+        "Translation": "Hashem"
+    },
+    {
+        "Word": "אֲבֹתֵיכֶם",
+        "Shoresh": "אָב",
+        "Translation": "father"
+    },
+    {
+        "Word": "אֲבֹֽתֵיכֶם",
+        "Shoresh": "אָב",
+        "Translation": "father"
+    },
+    {
+        "Word": "אַעֲלֶה",
+        "Shoresh": "עָלָה",
+        "Translation": "he went up"
+    },
+    {
+        "Word": "אֱלֹהֵֽינוּ",
+        "Shoresh": "אֱלֹהִים",
+        "Translation": "Hashem"
+    },
+    {
+        "Word": "אֶתְכֶֽם",
+        "Shoresh": "אֵת",
+        "Translation": "with"
+    },
+    {
+        "Word": "אֲבֹתָם",
+        "Shoresh": "אָב",
+        "Translation": "father"
+    },
+    {
+        "Word": "אִלֵּם",
+        "Shoresh": "אִלֵּם",
+        "Translation": "mute"
+    },
+    {
+        "Word": "אַהֲרֹן",
+        "Shoresh": "אַהֲרוֹן",
+        "Translation": "Aaron"
+    },
+    {
+        "Word": "אֵלֲכָה",
+        "Shoresh": "הָלַךְ",
+        "Translation": "he went"
+    },
+    {
+        "Word": "אֲחַזֵּק",
+        "Shoresh": "חָזַק",
+        "Translation": "strong"
+    },
+    {
+        "Word": "אֶשְׁמַע",
+        "Shoresh": "שָׁמַע",
+        "Translation": "sent"
+    },
+    {
+        "Word": "אֲשַׁלֵּֽחַ",
+        "Shoresh": "שָׁלַח",
+        "Translation": "Hashem"
+    },
+    {
+        "Word": "אֱלֹהֵינוּ",
+        "Shoresh": "אֱלֹהִים",
+        "Translation": "plague"
+    },
+    {
+        "Word": "אֵינֶנִּי",
+        "Shoresh": "אַיִן",
+        "Translation": "there is not"
+    },
+    {
+        "Word": "אָצִים",
+        "Shoresh": "אוּץ",
+        "Translation": "to hasten"
+    },
+    {
+        "Word": "אֹמְרִים",
+        "Shoresh": "אָמַר",
+        "Translation": "to say"
+    },
+    {
+        "Word": "אֱלִישֶׁבַע",
+        "Shoresh": "אֱלִישֶׁ֫בַע",
+        "Translation": "Elisheba"
+    },
+    {
+        "Word": "אֲבִיהוּא",
+        "Shoresh": "אֲבִיהוּא",
+        "Translation": "Avihu"
+    },
+    {
+        "Word": "אֶלְעָזָר",
+        "Shoresh": "אֶלְעָזָר",
+        "Translation": "Eleazar"
+    },
+    {
+        "Word": "אִֽיתָמָֽר",
+        "Shoresh": "אִיתָמָר",
+        "Translation": "Ithamar"
+    },
+    {
+        "Word": "אַסִּיר",
+        "Shoresh": "אַסִּיר",
+        "Translation": "Assir"
+    },
+    {
+        "Word": "אֲבוֹת",
+        "Shoresh": "אָב",
+        "Translation": "father"
+    },
+    {
+        "Word": "אֲצַוֶּךָּ",
+        "Shoresh": "צָוָה",
+        "Translation": "commanded"
+    },
+    {
+        "Word": "אַקְשֶׁה",
+        "Shoresh": "קָשָׁה",
+        "Translation": "hardened"
+    },
+    {
+        "Word": "אֹתֹתַי",
+        "Shoresh": "אוֹת",
+        "Translation": "sign"
+    },
+    {
+        "Word": "אַגְמֵיהֶם",
+        "Shoresh": "אֲגַם",
+        "Translation": "pond"
+    },
+    {
+        "Word": "אַעְתִּיר",
+        "Shoresh": "עָתַר",
+        "Translation": "pleaded"
+    },
+    {
+        "Word": "אֶצְבַּע",
+        "Shoresh": "אֶצְבַּע",
+        "Translation": "finger"
+    },
+    {
+        "Word": "אֵלֵֽינוּ",
+        "Shoresh": "אֵל",
+        "Translation": "Hashem"
+    },
+    {
+        "Word": "אֱלֹֽהֵיכֶם",
+        "Shoresh": "אֱלֹהִים",
+        "Translation": "gods"
+    },
+    {
+        "Word": "אֲבַעְבֻּעֹת",
+        "Shoresh": "אֲבַעְבֻּעֹת",
+        "Translation": "boils"
+    },
+    {
+        "Word": "אֶפְרֹשׂ",
+        "Shoresh": "פָּרַס²",
+        "Translation": "he spread"
+    },
+    {
+        "Word": "אָבִיב",
+        "Shoresh": "אָבִיב",
+        "Translation": "ear of grain"
+    },
+    {
+        "Word": "אֲפִילֹת",
+        "Shoresh": "אָפִיל",
+        "Translation": "late"
+    },
+    {
+        "Word": "אֱלֹהֵיהֶם",
+        "Shoresh": "אֱלֹהִים",
+        "Translation": "Hashem"
+    },
+    {
+        "Word": "אָבְדָה",
+        "Shoresh": "אָבַד",
+        "Translation": "perished"
+    },
+    {
+        "Word": "אָבָה",
+        "Shoresh": "אָבָה",
+        "Translation": "desired"
+    },
+    {
+        "Word": "אָבִיא",
+        "Shoresh": "בּוֹא",
+        "Translation": "come"
+    },
+    {
+        "Word": "אֵצֵא",
+        "Shoresh": "יָצָא",
+        "Translation": "he went out"
+    },
+    {
+        "Word": "אָֽף",
+        "Shoresh": "אַף",
+        "Translation": "also"
+    },
+    {
+        "Word": "אָבֹת",
+        "Shoresh": "אָב",
+        "Translation": "father"
+    },
+    {
+        "Word": "אָכְלוֹ",
+        "Shoresh": "אֹכֶל",
+        "Translation": "food"
+    },
+    {
+        "Word": "אֲגֻדַּת",
+        "Shoresh": "אֲגֻדָּה",
+        "Translation": "bundle"
+    },
+    {
+        "Word": "אֵזוֹב",
+        "Shoresh": "אֵזוֹב",
+        "Translation": "hyssop"
+    },
+    {
+        "Word": "אֵֽין",
+        "Shoresh": "אַיִן",
+        "Translation": "there is not"
+    },
+    {
+        "Word": "אָמְרוּ",
+        "Shoresh": "אָמַר",
+        "Translation": "say"
+    },
+    {
+        "Word": "אֶפְדֶּֽה",
+        "Shoresh": "פָּדָה",
+        "Translation": "redeemed"
+    },
+    {
+        "Word": "אֹפַן",
+        "Shoresh": "אוֹפַן",
+        "Translation": "wheel"
+    },
+    {
+        "Word": "אָנוּסָה",
+        "Shoresh": "נוּס",
+        "Translation": "he fled"
+    },
+    {
+        "Word": "אָשִׁירָה",
+        "Shoresh": "שִׁיר",
+        "Translation": "triumph"
+    },
+    {
+        "Word": "אֵלִי",
+        "Shoresh": "אֵל",
+        "Translation": "mighty one"
+    },
+    {
+        "Word": "אָֽבֶן",
+        "Shoresh": "אֶבֶן",
+        "Translation": "stone"
+    },
+    {
+        "Word": "אוֹיֵֽב",
+        "Shoresh": "אוֹיֵב",
+        "Translation": "enemy"
+    },
+    {
+        "Word": "אוֹיֵב",
+        "Shoresh": "אוֹיֵב",
+        "Translation": "enemy"
+    },
+    {
+        "Word": "אֶרְדֹּף",
+        "Shoresh": "רָדַף",
+        "Translation": "pursued"
+    },
+    {
+        "Word": "אַשִּׂיג",
+        "Shoresh": "נָשַׂג",
+        "Translation": "overtake"
+    },
+    {
+        "Word": "אֲחַלֵּק",
+        "Shoresh": "חָלַק",
+        "Translation": "divide"
+    },
+    {
+        "Word": "אָרִיק",
+        "Shoresh": "רִיק",
+        "Translation": "empty"
+    },
+    {
+        "Word": "אַדִּירִֽים",
+        "Shoresh": "אַדִּיר",
+        "Translation": "majestic"
+    },
+    {
+        "Word": "אָֽרֶץ",
+        "Shoresh": "אֶ֫רֶץ",
+        "Translation": "earth"
+    },
+    {
+        "Word": "אָחַז",
+        "Shoresh": "חָזָה",
+        "Translation": "he saw"
+    },
+    {
+        "Word": "אֵילֵי",
+        "Shoresh": "אַ֫יִל",
+        "Translation": "ram"
+    },
+    {
+        "Word": "אֵימָתָה",
+        "Shoresh": "אֵימָה",
+        "Translation": "terror"
+    },
+    {
+        "Word": "אַחֲרֶיהָ",
+        "Shoresh": "אַחַר",
+        "Translation": "after"
+    },
+    {
+        "Word": "אָשִׂים",
+        "Shoresh": "שׂוּם",
+        "Translation": "heal"
+    },
+    {
+        "Word": "אֵילִמָה",
+        "Shoresh": "אֵילִים",
+        "Translation": "eye"
+    },
+    {
+        "Word": "אֵילִם",
+        "Shoresh": "אֵילִם",
+        "Translation": "Sinai"
+    },
+    {
+        "Word": "אֲנַסֶּנּוּ",
+        "Shoresh": "נָסָה",
+        "Translation": "tested"
+    },
+    {
+        "Word": "אֱלֹהֵיכֶֽם",
+        "Shoresh": "אֱלֹהִים",
+        "Translation": "Hashem"
+    },
+    {
+        "Word": "אֵפוּ",
+        "Shoresh": "אָפָה",
+        "Translation": "bake"
+    },
+    {
+        "Word": "אִכְלֻהוּ",
+        "Shoresh": "אָכַל",
+        "Translation": "Sabbath"
+    },
+    {
+        "Word": "אָֽכְלוּ",
+        "Shoresh": "אָכַל",
+        "Translation": "omer"
+    },
+    {
+        "Word": "אֶעֱשֶׂה",
+        "Shoresh": "עָשָׂה",
+        "Translation": "he made"
+    },
+    {
+        "Word": "אָֽיִן",
+        "Shoresh": "אַיִן",
+        "Translation": "there is not"
+    },
+    {
+        "Word": "אֱמוּנָה",
+        "Shoresh": "אֱמוּנָה",
+        "Translation": "faith"
+    },
+    {
+        "Word": "אֱלִיעֶזֶר",
+        "Shoresh": "אֱלִיעֶזֶר",
+        "Translation": "Eliezer"
+    },
+    {
+        "Word": "אִיעָצְךָ",
+        "Shoresh": "יָעַץ",
+        "Translation": "advised"
+    },
+    {
+        "Word": "אֲלָפִים",
+        "Shoresh": "אֶלֶף",
+        "Translation": "rebelled"
+    },
+    {
+        "Word": "אָמָֽר",
+        "Shoresh": "אָמַר",
+        "Translation": "said"
+    },
+    {
+        "Word": "אַרְצֽוֹ",
+        "Shoresh": "אֶ֫רֶץ",
+        "Translation": "land"
+    },
+    {
+        "Word": "אִשָּֽׁה",
+        "Shoresh": "אִשָּׁה",
+        "Translation": "woman"
+    },
+    {
+        "Word": "אֲדָמָה",
+        "Shoresh": "אֲדָמָה",
+        "Translation": "he slaughtered"
+    },
+    {
+        "Word": "אַזְכִּיר",
+        "Shoresh": "זָכַר",
+        "Translation": "he blessed"
+    },
+    {
+        "Word": "אָמֹר",
+        "Shoresh": "אָמַר",
+        "Translation": "said"
+    },
+    {
+        "Word": "אָזְנוֹ",
+        "Shoresh": "אֹ֫זֶן",
+        "Translation": "ear"
+    },
+    {
+        "Word": "אֲדֹנֶיהָ",
+        "Shoresh": "אָדוֹן",
+        "Translation": "master"
+    },
+    {
+        "Word": "אִנָּה",
+        "Shoresh": "אָנָה",
+        "Translation": "hand"
+    },
+    {
+        "Word": "אֲמָתוֹ",
+        "Shoresh": "אָמָה",
+        "Translation": "maidservant"
+    },
+    {
+        "Word": "אֽוֹ",
+        "Shoresh": "אוֹI",
+        "Translation": "or"
+    },
+    {
+        "Word": "אָמָה",
+        "Shoresh": "אָמָה",
+        "Translation": "maidservant"
+    },
+    {
+        "Word": "אִֽם",
+        "Shoresh": "אִם",
+        "Translation": "if"
+    },
+    {
+        "Word": "אֲבֵדָה",
+        "Shoresh": "אֲבֵדָה",
+        "Translation": "lost object"
+    },
+    {
+        "Word": "אֹרָשָׂה",
+        "Shoresh": "אָרַשׂ",
+        "Translation": "betrothed"
+    },
+    {
+        "Word": "אַפִּי",
+        "Shoresh": "אַף",
+        "Translation": "anger"
+    },
+    {
+        "Word": "אַלְמָנוֹת",
+        "Shoresh": "אַלְמָנָה",
+        "Translation": "widow"
+    },
+    {
+        "Word": "אַחֲרֵֽי",
+        "Shoresh": "אַחַר",
+        "Translation": "after"
+    },
+    {
+        "Word": "אֹֽיִבְךָ",
+        "Shoresh": "אָיַב",
+        "Translation": "be an enemy"
+    },
+    {
+        "Word": "אֶבְיֹנְךָ",
+        "Shoresh": "אֶבְיוֹן",
+        "Translation": "needy"
+    },
+    {
+        "Word": "אַצְדִּיק",
+        "Shoresh": "צָדֵק",
+        "Translation": "to be righteous"
+    },
+    {
+        "Word": "אַרְצֶךָ",
+        "Shoresh": "אֶ֫רֶץ",
+        "Translation": "land"
+    },
+    {
+        "Word": "אֶבְיֹנֵי",
+        "Shoresh": "אֶבְיוֹן",
+        "Translation": "poor"
+    },
+    {
+        "Word": "אֲמָתְךָ",
+        "Shoresh": "אָמָה",
+        "Translation": "maidservant"
+    },
+    {
+        "Word": "אַדְמָתְךָ",
+        "Shoresh": "אֲדָמָה",
+        "Translation": "ground"
+    },
+    {
+        "Word": "אֲדַבֵּר",
+        "Shoresh": "דָּבַר",
+        "Translation": "he spoke"
+    },
+    {
+        "Word": "אֲמַלֵּֽא",
+        "Shoresh": "מָלֵא",
+        "Translation": "full"
+    },
+    {
+        "Word": "אֵֽימָתִי",
+        "Shoresh": "אֵימָה",
+        "Translation": "terror"
+    },
+    {
+        "Word": "אֲגָרְשֶׁנּוּ",
+        "Shoresh": "גָּרַשׁ",
+        "Translation": "he drove out"
+    },
+    {
+        "Word": "אֲצִילֵי",
+        "Shoresh": "אָצִיל",
+        "Translation": "noble"
+    },
+    {
+        "Word": "אֹכֶלֶת",
+        "Shoresh": "אָכַל",
+        "Translation": "ate"
+    },
+    {
+        "Word": "אַבְנֵי",
+        "Shoresh": "אֶבֶן",
+        "Translation": "stone"
+    },
+    {
+        "Word": "אֲרוֹן",
+        "Shoresh": "אֲרוֹן",
+        "Translation": "ark"
+    },
+    {
+        "Word": "אַמָּתַיִם",
+        "Shoresh": "אַמָּה",
+        "Translation": "cubit"
+    },
+    {
+        "Word": "אָרְכּוֹ",
+        "Shoresh": "אֹ֫רֶךְ",
+        "Translation": "length"
+    },
+    {
+        "Word": "אָרְכָּהּ",
+        "Shoresh": "אֹ֫רֶךְ",
+        "Translation": "length"
+    },
+    {
+        "Word": "אֲרֹן",
+        "Shoresh": "אֲרוֹן",
+        "Translation": "ark"
+    },
+    {
+        "Word": "אֲצַוֶּה",
+        "Shoresh": "צָוָה",
+        "Translation": "command"
+    },
+    {
+        "Word": "אֲחֹתָהּ",
+        "Shoresh": "אָחוֹת",
+        "Translation": "sister"
+    },
+    {
+        "Word": "אֲחֹתָֽהּ",
+        "Shoresh": "אָחוֹת",
+        "Translation": "sister"
+    },
+    {
+        "Word": "אֲחֹרֵי",
+        "Shoresh": "אָחוֹר",
+        "Translation": "back"
+    },
+    {
+        "Word": "אַמּוֹת",
+        "Shoresh": "אַמָּה",
+        "Translation": "cubit"
+    },
+    {
+        "Word": "אַדְנֵי",
+        "Shoresh": "אַדְנֵי",
+        "Translation": "sockets"
+    },
+    {
+        "Word": "אֲדָנִים",
+        "Shoresh": "אֶדֶן",
+        "Translation": "socket"
+    },
+    {
+        "Word": "אַדְנֵיהֶם",
+        "Shoresh": "אֶ֫דֶן",
+        "Translation": "socket"
+    },
+    {
+        "Word": "אַמָּֽה",
+        "Shoresh": "אַמָּה",
+        "Translation": "thirty"
+    },
+    {
+        "Word": "אַרְבָּעָֽה",
+        "Shoresh": "אַרְבַּע",
+        "Translation": "four"
+    },
+    {
+        "Word": "אַהֲרֹֽן",
+        "Shoresh": "אַהֲרוֹן",
+        "Translation": "Aaron"
+    },
+    {
+        "Word": "אֲפֻדָּתוֹ",
+        "Shoresh": "אֲפֻדָּה",
+        "Translation": "ephod"
+    },
+    {
+        "Word": "אֵפֹד",
+        "Shoresh": "אֵפוֹד",
+        "Translation": "ephod"
+    },
+    {
+        "Word": "אֹדֶם",
+        "Shoresh": "אֹ֫דֶם",
+        "Translation": "ruby"
+    },
+    {
+        "Word": "אֹרֵג",
+        "Shoresh": "אָרַג",
+        "Translation": "embroidery"
+    },
+    {
+        "Word": "אַבְנֵטִים",
+        "Shoresh": "אַבְנֵט",
+        "Translation": "sash"
+    },
+    {
+        "Word": "אַבְנֵט",
+        "Shoresh": "אַבְנֵט",
+        "Translation": "sash"
+    },
+    {
+        "Word": "אִשֶּׁה",
+        "Shoresh": "אִשָּׁה",
+        "Translation": "fire offering"
+    },
+    {
+        "Word": "אֹזֶן",
+        "Shoresh": "אֹזֶן",
+        "Translation": "ear"
+    },
+    {
+        "Word": "אֹתָכָה",
+        "Shoresh": "אֵת",
+        "Translation": "with"
+    },
+    {
+        "Word": "אֹֽהֶל",
+        "Shoresh": "אֹהֶל",
+        "Translation": "tent"
+    },
+    {
+        "Word": "אִוָּעֵד",
+        "Shoresh": "יָעַד",
+        "Translation": "appointed"
+    },
+    {
+        "Word": "אֲקַדֵּשׁ",
+        "Shoresh": "קָדַשׁ",
+        "Translation": "sanctify"
+    },
+    {
+        "Word": "אֱלֹהֵיהֶֽם",
+        "Shoresh": "אֱלֹהִים",
+        "Translation": "Hashem"
+    },
+    {
+        "Word": "אוּרִי",
+        "Shoresh": "אוּרִי",
+        "Translation": "Uri"
+    },
+    {
+        "Word": "אָהֳלִיאָב",
+        "Shoresh": "אָהֳלִיאָב",
+        "Translation": "Ahisamach"
+    },
+    {
+        "Word": "אֲחִֽיסָמָךְ",
+        "Shoresh": "אֲחִיסָמָךְ",
+        "Translation": "heart"
+    },
+    {
+        "Word": "אַֽהֲרֹן",
+        "Shoresh": "אַהֲרוֹן",
+        "Translation": "Aaron"
+    },
+    {
+        "Word": "אֱלֹהָיו",
+        "Shoresh": "אֱלֹהִים",
+        "Translation": "was kindled"
+    },
+    {
+        "Word": "אַפֶּךָ",
+        "Shoresh": "אַף",
+        "Translation": "people"
+    },
+    {
+        "Word": "אִֽישׁ",
+        "Shoresh": "אִישׁ",
+        "Translation": "man"
+    },
+    {
+        "Word": "אַלְפֵי",
+        "Shoresh": "אֶלֶף",
+        "Translation": "thousand"
+    },
+    {
+        "Word": "אֽ͏ֶעֱלֶה",
+        "Shoresh": "",
+        "Translation": "sin"
+    },
+    {
+        "Word": "אֶמְחֶנּוּ",
+        "Shoresh": "מָחָא",
+        "Translation": "wiped"
+    },
+    {
+        "Word": "אֲכֶלְךָ",
+        "Shoresh": "כָּלָה",
+        "Translation": "evil"
+    },
+    {
+        "Word": "אָהֳלֽוֹ",
+        "Shoresh": "אֹהֶל",
+        "Translation": "tent"
+    },
+    {
+        "Word": "אַעֲבִיר",
+        "Shoresh": "עָבַר",
+        "Translation": "he passed over/through"
+    },
+    {
+        "Word": "אָחֹן",
+        "Shoresh": "חָנַן",
+        "Translation": "he was gracious"
+    },
+    {
+        "Word": "אֲרַחֵֽם",
+        "Shoresh": "רָחַם",
+        "Translation": "he had compassion"
+    },
+    {
+        "Word": "אֲחֹרָי",
+        "Shoresh": "אָחוֹר",
+        "Translation": "back"
+    },
+    {
+        "Word": "אֲבָנִֽים",
+        "Shoresh": "אֶבֶן",
+        "Translation": "stone"
+    },
+    {
+        "Word": "אֶרֶךְ",
+        "Shoresh": "אֶרֶךְ",
+        "Translation": "slow"
+    },
+    {
+        "Word": "אָבוֹת",
+        "Shoresh": "אָבוֹת",
+        "Translation": "fathers"
+    },
+    {
+        "Word": "אֲשֵׁרָיו",
+        "Shoresh": "אֲשֵׁרָה",
+        "Translation": "Asherah"
+    },
+    {
+        "Word": "אֱלֹֽהֵיהֶם",
+        "Shoresh": "אֱלֹהִים",
+        "Translation": "Hashem"
+    },
+    {
+        "Word": "אֱלֹהֵיהֶן",
+        "Shoresh": "אֱלֹהִים",
+        "Translation": "Hashem"
+    },
+    {
+        "Word": "אֱלֹהֵיהֶֽן",
+        "Shoresh": "אֱלֹהִים",
+        "Translation": "Hashem"
+    },
+    {
+        "Word": "אוֹרִישׁ",
+        "Shoresh": "יָרַשׁ",
+        "Translation": "he inherited"
+    },
+    {
+        "Word": "אַרְצְךָ",
+        "Shoresh": "אֶ֫רֶץ",
+        "Translation": "went up"
+    },
+    {
+        "Word": "אָכַל",
+        "Shoresh": "אָכַל",
+        "Translation": "placed"
+    },
+    {
+        "Word": "אֲדָנָֽיו",
+        "Shoresh": "אֶ֫דֶן",
+        "Translation": "socket"
+    },
+    {
+        "Word": "אֲדָנֶיהָ",
+        "Shoresh": "אֶ֫דֶן",
+        "Translation": "court"
+    },
+    {
+        "Word": "אֹתָנָה",
+        "Shoresh": "אֵת",
+        "Translation": "spin"
+    },
+    {
+        "Word": "אֲחִיסָמָךְ",
+        "Shoresh": "אֲחִיסָמָךְ",
+        "Translation": "Ahisamach"
+    },
+    {
+        "Word": "אָֽהֳלִיאָב",
+        "Shoresh": "אָהֳלִיאָב",
+        "Translation": "Oholiab"
+    },
+    {
+        "Word": "אֶחָֽת",
+        "Shoresh": "אִישׁ",
+        "Translation": "man"
+    },
+    {
+        "Word": "אֵלִים",
+        "Shoresh": "אֵל",
+        "Translation": "to"
+    },
+    {
+        "Word": "אַמֹּת",
+        "Shoresh": "אַמָּה",
+        "Translation": "cubit"
+    },
+    {
+        "Word": "אִֽיתָמָר",
+        "Shoresh": "אִיתָמָר",
+        "Translation": "Ithamar"
+    },
+    {
+        "Word": "אֲדָנָיו",
+        "Shoresh": "אֶ֫דֶן",
+        "Translation": "bar"
+    },
+    {
+        "Word": "אִשֵּׁה",
+        "Shoresh": "אִשָּׁה",
+        "Translation": "woman"
+    },
+    {
+        "Word": "אַזְכָּרָתָהּ",
+        "Shoresh": "אַזְכָּרָה",
+        "Translation": "remain"
+    },
+    {
+        "Word": "אֶצְבָּעוֹ",
+        "Shoresh": "אֶצְבַּע",
+        "Translation": "finger"
+    },
+    {
+        "Word": "אִשֵּׁי",
+        "Shoresh": "אִשָּׁה",
+        "Translation": "woman"
+    },
+    {
+        "Word": "אֲשָׁמוֹ",
+        "Shoresh": "אָשָׁם",
+        "Translation": "was guilty"
+    },
+    {
+        "Word": "אַזְכָּרָתָה",
+        "Shoresh": "אַזְכָּרָה",
+        "Translation": "memorial"
+    },
+    {
+        "Word": "אָשָׁם",
+        "Shoresh": "אָשָׁם",
+        "Translation": "guilt"
+    },
+    {
+        "Word": "אָשֹׁם",
+        "Shoresh": "אָשַׁם",
+        "Translation": "be guilty"
+    },
+    {
+        "Word": "אָשַׁם",
+        "Shoresh": "אָשַׁם",
+        "Translation": "be guilty"
+    },
+    {
+        "Word": "אַשְׁמָתֽוֹ",
+        "Shoresh": "אַשְׁמָה",
+        "Translation": "guilt"
+    },
+    {
+        "Word": "אֹֽזֶן",
+        "Shoresh": "אֹזֶן",
+        "Translation": "ear"
+    },
+    {
+        "Word": "אָזְנָם",
+        "Shoresh": "אֹ֫זֶן",
+        "Translation": "ear"
+    },
+    {
+        "Word": "אֶקָּדֵשׁ",
+        "Shoresh": "קָדַשׁ",
+        "Translation": "he was silent"
+    },
+    {
+        "Word": "אֶכָּבֵד",
+        "Shoresh": "כָּבֵד",
+        "Translation": "Elizaphan"
+    },
+    {
+        "Word": "אֶלְצָפָן",
+        "Shoresh": "אֱלִיצָפָן",
+        "Translation": "he lifted"
+    },
+    {
+        "Word": "אִיתָמָר",
+        "Shoresh": "אִיתָמָר",
+        "Translation": "Ithamar"
+    },
+    {
+        "Word": "אֲכַלְתֶּם",
+        "Shoresh": "אָכַל",
+        "Translation": "he ate"
+    },
+    {
+        "Word": "אֲדַמְדָּמֶת",
+        "Shoresh": "",
+        "Translation": "be low"
+    },
+    {
+        "Word": "אֲדַמְדָּם",
+        "Shoresh": "אֲדַמְדָּם",
+        "Translation": "reddish"
+    },
+    {
+        "Word": "אֶרֶז",
+        "Shoresh": "אֶרֶז",
+        "Translation": "scarlet"
+    },
+    {
+        "Word": "אֲחֻזַּתְכֶֽם",
+        "Shoresh": "אֲחֻזָּה",
+        "Translation": "possession"
+    },
+    {
+        "Word": "אֲדַמְדַּמֹּת",
+        "Shoresh": "",
+        "Translation": "wall"
+    },
+    {
+        "Word": "אֲבָנָיו",
+        "Shoresh": "אֶבֶן",
+        "Translation": "stone"
+    },
+    {
+        "Word": "אֵרָאֶה",
+        "Shoresh": "רָאָה",
+        "Translation": "see"
+    },
+    {
+        "Word": "אוֹתָֽם",
+        "Shoresh": "אֵת",
+        "Translation": "he threw"
+    },
+    {
+        "Word": "אֹכְלָיו",
+        "Shoresh": "אָכַל",
+        "Translation": "he ate"
+    },
+    {
+        "Word": "אִמְּךָ",
+        "Shoresh": "אֵם",
+        "Translation": "mother"
+    },
+    {
+        "Word": "אֲחֽוֹתְךָ",
+        "Shoresh": "אָחוֹת",
+        "Translation": "sister"
+    },
+    {
+        "Word": "אֲחוֹתְךָ",
+        "Shoresh": "אָחוֹת",
+        "Translation": "sister"
+    },
+    {
+        "Word": "אֲחֽוֹת",
+        "Shoresh": "אָחוֹת",
+        "Translation": "sister"
+    },
+    {
+        "Word": "אֲחִֽי",
+        "Shoresh": "אָח",
+        "Translation": "brother"
+    },
+    {
+        "Word": "אַנְשֵֽׁי",
+        "Shoresh": "אִישׁ",
+        "Translation": "man"
+    },
+    {
+        "Word": "אַרְצְכֶם",
+        "Shoresh": "אֶ֫רֶץ",
+        "Translation": "land"
+    },
+    {
+        "Word": "אֵיפַת",
+        "Shoresh": "אֵיפָה",
+        "Translation": "ephah"
+    },
+    {
+        "Word": "אַדְמָתָם",
+        "Shoresh": "אֲדָמָה",
+        "Translation": "ground"
+    },
+    {
+        "Word": "אוֹב",
+        "Shoresh": "אֵב",
+        "Translation": "they will know me"
+    },
+    {
+        "Word": "אֲ‍ֽשֶׁר",
+        "Shoresh": "",
+        "Translation": "poured"
+    },
+    {
+        "Word": "אֱלֹהָֽיו",
+        "Shoresh": "אֱלֹהִים",
+        "Translation": "drew near"
+    },
+    {
+        "Word": "אָֽשֶׁךְ",
+        "Shoresh": "אֶ֫שֶׁךְ",
+        "Translation": "testicle"
+    },
+    {
+        "Word": "אַשְׁמָה",
+        "Shoresh": "אַשְׁמָה",
+        "Translation": "guilt"
+    },
+    {
+        "Word": "אַרְצְכֶֽם",
+        "Shoresh": "אֶ֫רֶץ",
+        "Translation": "fifty"
+    },
+    {
+        "Word": "אֲחֻזָּתוֹ",
+        "Shoresh": "אֲחֻזָּה",
+        "Translation": "return"
+    },
+    {
+        "Word": "אֲחֻזָּתֽוֹ",
+        "Shoresh": "אֲחֻזָּה",
+        "Translation": "possession"
+    },
+    {
+        "Word": "אֲחֻזַּתְכֶם",
+        "Shoresh": "אֲחֻזָּה",
+        "Translation": "possession"
+    },
+    {
+        "Word": "אָכְלֶֽךָ",
+        "Shoresh": "אֹ֫כֶל",
+        "Translation": "food"
+    },
+    {
+        "Word": "אֲבֹתָיו",
+        "Shoresh": "אָב",
+        "Translation": "father"
+    },
+    {
+        "Word": "אַחֲרֵיכֶם",
+        "Shoresh": "אַחַר",
+        "Translation": "served"
+    },
+    {
+        "Word": "אֱלִילִם",
+        "Shoresh": "אֱלִיל",
+        "Translation": "idol"
+    },
+    {
+        "Word": "אֹיְבֵיכֶם",
+        "Shoresh": "אָיַב",
+        "Translation": "he was an enemy"
+    },
+    {
+        "Word": "אֹיְבֵיכֶֽם",
+        "Shoresh": "אָיַב",
+        "Translation": "be an enemy"
+    },
+    {
+        "Word": "אָרִיחַ",
+        "Shoresh": "רוּחַ",
+        "Translation": "spirit"
+    },
+    {
+        "Word": "אֹֽיְבֵיכֶם",
+        "Shoresh": "אָיַב",
+        "Translation": "to be an enemy"
+    },
+    {
+        "Word": "אֱזָרֶה",
+        "Shoresh": "זָרָה",
+        "Translation": "to scatter"
+    },
+    {
+        "Word": "אֹיְבֵיהֶם",
+        "Shoresh": "אָיַב",
+        "Translation": "was an enemy"
+    },
+    {
+        "Word": "אָיִן",
+        "Shoresh": "אַיִן",
+        "Translation": "there is not"
+    },
+    {
+        "Word": "אֹֽיְבֵיכֶֽם",
+        "Shoresh": "אָיַב",
+        "Translation": "was an enemy"
+    },
+    {
+        "Word": "אֶזְכֹּר",
+        "Shoresh": "זָכַר",
+        "Translation": "remember"
+    },
+    {
+        "Word": "אֶזְכֹּֽר",
+        "Shoresh": "זָכַר",
+        "Translation": "remember"
+    },
+    {
+        "Word": "אֹֽיְבֵיהֶם",
+        "Shoresh": "אָיַב",
+        "Translation": "be an enemy"
+    },
+    {
+        "Word": "אֱלִיצוּר",
+        "Shoresh": "אֱלִיצוּר",
+        "Translation": "Elizur"
+    },
+    {
+        "Word": "אֱלִיאָב",
+        "Shoresh": "אֱלִיאָב",
+        "Translation": "Elishama"
+    },
+    {
+        "Word": "אֱלִישָׁמָע",
+        "Shoresh": "אֱלִישָׁמָע",
+        "Translation": "Manasseh"
+    },
+    {
+        "Word": "אֲבִידָן",
+        "Shoresh": "אֲבִידָן",
+        "Translation": "Arnaban"
+    },
+    {
+        "Word": "אֲחִיעֶזֶר",
+        "Shoresh": "אֲחִיעֶ֫זֶר",
+        "Translation": "Ahiezer"
+    },
+    {
+        "Word": "אֶלְיָסָף",
+        "Shoresh": "אֶלְיָסָף",
+        "Translation": "Elyasaph"
+    },
+    {
+        "Word": "אֲחִירַע",
+        "Shoresh": "אֲחִירַע",
+        "Translation": "Ahira"
+    },
+    {
+        "Word": "אֲבוֹתָם",
+        "Shoresh": "אָב",
+        "Translation": "name"
+    },
+    {
+        "Word": "אֲבֹתָֽיו",
+        "Shoresh": "אָב",
+        "Translation": "father"
+    },
+    {
+        "Word": "אֲבֹתָֽם",
+        "Shoresh": "אָב",
+        "Translation": "father"
+    },
+    {
+        "Word": "אֶלִיצָפָן",
+        "Shoresh": "אֱלִיצָפָן",
+        "Translation": "Uzziel"
+    },
+    {
+        "Word": "אֲבִיחָיִל",
+        "Shoresh": "אֲבִיחַ֫יִל",
+        "Translation": "Abihail"
+    },
+    {
+        "Word": "אָֽלֶף",
+        "Shoresh": "אֶלֶף",
+        "Translation": "he lifted"
+    },
+    {
+        "Word": "אַרְגָּמָֽן",
+        "Shoresh": "אַרְגָּמָן",
+        "Translation": "purple"
+    },
+    {
+        "Word": "אַלְפַּיִם",
+        "Shoresh": "אֶלֶף",
+        "Translation": "thousand"
+    },
+    {
+        "Word": "אִישֵֽׁךְ",
+        "Shoresh": "אִישׁ",
+        "Translation": "man"
+    },
+    {
+        "Word": "אָמֵן",
+        "Shoresh": "אָמֵןI",
+        "Translation": "truly"
+    },
+    {
+        "Word": "אָמֵֽן",
+        "Shoresh": "אָמֵןI",
+        "Translation": "truly"
+    },
+    {
+        "Word": "אָמוֹר",
+        "Shoresh": "אָמַר",
+        "Translation": "to say"
+    },
+    {
+        "Word": "אֲבָרֲכֵֽם",
+        "Shoresh": "בָּרַךְ",
+        "Translation": "to bless"
+    },
+    {
+        "Word": "אַרְבַּעַת",
+        "Shoresh": "אַרְבַּע",
+        "Translation": "four"
+    },
+    {
+        "Word": "אֱלִֽישָׁמָע",
+        "Shoresh": "אֱלִישָׁמָע",
+        "Translation": "Elishama"
+    },
+    {
+        "Word": "אֹֽיְבֶיךָ",
+        "Shoresh": "אָיַב",
+        "Translation": "flee"
+    },
+    {
+        "Word": "אַפּוֹ",
+        "Shoresh": "אַף",
+        "Translation": "burn"
+    },
+    {
+        "Word": "אֶסְפָה",
+        "Shoresh": "אָסַף",
+        "Translation": "he gathered"
+    },
+    {
+        "Word": "אֶלְדָּד",
+        "Shoresh": "אֵל³",
+        "Translation": "Hashem"
+    },
+    {
+        "Word": "אֶתְוַדָּע",
+        "Shoresh": "יָדַע",
+        "Translation": "he knew"
+    },
+    {
+        "Word": "אֲדַבֶּר",
+        "Shoresh": "דָּבַר",
+        "Translation": "he spoke"
+    },
+    {
+        "Word": "אֲחִימַן",
+        "Shoresh": "אֲחִימַן",
+        "Translation": "Ahiman"
+    },
+    {
+        "Word": "אֶשְׁכּוֹל",
+        "Shoresh": "אֶשְׁכֹּל",
+        "Translation": "cluster"
+    },
+    {
+        "Word": "אֶפֶס",
+        "Shoresh": "אֶפֶס",
+        "Translation": "nothing"
+    },
+    {
+        "Word": "אַכֶּנּוּ",
+        "Shoresh": "נָכָה",
+        "Translation": "he struck"
+    },
+    {
+        "Word": "אַחֲרָי",
+        "Shoresh": "אַחַר",
+        "Translation": "after"
+    },
+    {
+        "Word": "אָהֳלֵי",
+        "Shoresh": "אֹהֶל",
+        "Translation": "tent"
+    },
+    {
+        "Word": "אֽ͏ָהֳלֵיהֶם",
+        "Shoresh": "",
+        "Translation": "woman"
+    },
+    {
+        "Word": "אֲבוֹתָֽם",
+        "Shoresh": "אָב",
+        "Translation": "father"
+    },
+    {
+        "Word": "אֶבְחַר",
+        "Shoresh": "בָּחַר",
+        "Translation": "it budded"
+    },
+    {
+        "Word": "אָבַדְנוּ",
+        "Shoresh": "אָבַד",
+        "Translation": "was lost"
+    },
+    {
+        "Word": "אָבָֽדְנוּ",
+        "Shoresh": "אָבַד",
+        "Translation": "was lost"
+    },
+    {
+        "Word": "אֲשָׁמָם",
+        "Shoresh": "אָשָׁם",
+        "Translation": "guilt offering"
+    },
+    {
+        "Word": "אֲדֻמָּה",
+        "Shoresh": "אָדֹם",
+        "Translation": "red"
+    },
+    {
+        "Word": "אֵפֶר",
+        "Shoresh": "אֵפֶר",
+        "Translation": "ashes"
+    },
+    {
+        "Word": "אֶֽעֱבֹֽרָה",
+        "Shoresh": "עָבַר",
+        "Translation": "passed over"
+    },
+    {
+        "Word": "אַרְנוֹן",
+        "Shoresh": "*אַרְנוֹןI",
+        "Translation": "Arnon"
+    },
+    {
+        "Word": "אַרְנֽוֹן",
+        "Shoresh": "*אַרְנוֹןI",
+        "Translation": "Arnon"
+    },
+    {
+        "Word": "אֱסֹף",
+        "Shoresh": "אָסַף",
+        "Translation": "he gathered"
+    },
+    {
+        "Word": "אֶעְבְּרָה",
+        "Shoresh": "עָבַר",
+        "Translation": "passed over"
+    },
+    {
+        "Word": "אַרְצוֹ",
+        "Shoresh": "אֶ֫רֶץ",
+        "Translation": "land"
+    },
+    {
+        "Word": "אַרְנֹֽן",
+        "Shoresh": "אַרְנוֹן",
+        "Translation": "Arnon"
+    },
+    {
+        "Word": "אָֽכְלָה",
+        "Shoresh": "אֲכַל",
+        "Translation": "ate"
+    },
+    {
+        "Word": "אוֹי",
+        "Shoresh": "אוֹי",
+        "Translation": "woe"
+    },
+    {
+        "Word": "אָבַדְתָּ",
+        "Shoresh": "אָבַד",
+        "Translation": "perished"
+    },
+    {
+        "Word": "אֱמֹרִי",
+        "Shoresh": "אֱמוֹרִי",
+        "Translation": "Amorite"
+    },
+    {
+        "Word": "אָבַד",
+        "Shoresh": "אָבַד",
+        "Translation": "perished"
+    },
+    {
+        "Word": "אֲשֶׁרׄ",
+        "Shoresh": "אֲשֶׁר",
+        "Translation": "who/which/that"
+    },
+    {
+        "Word": "אֶדְרֶֽעִי",
+        "Shoresh": "אֶדְרֶ֑עִי",
+        "Translation": "hand"
+    },
+    {
+        "Word": "אָֽרָה",
+        "Shoresh": "אָרָה",
+        "Translation": "he saw"
+    },
+    {
+        "Word": "אֲכַבֶּדְךָ",
+        "Shoresh": "כָּבֵד",
+        "Translation": "be heavy"
+    },
+    {
+        "Word": "אֱלֹהָי",
+        "Shoresh": "אֱלֹהִים",
+        "Translation": "Hashem"
+    },
+    {
+        "Word": "אֲתֹֽנְךָ",
+        "Shoresh": "אָתוֹן",
+        "Translation": "female donkey"
+    },
+    {
+        "Word": "אֲתֹנְךָ",
+        "Shoresh": "אָתוֹן",
+        "Translation": "female donkey"
+    },
+    {
+        "Word": "אֹתְכָה",
+        "Shoresh": "אֵת",
+        "Translation": "with"
+    },
+    {
+        "Word": "אַרְנֹן",
+        "Shoresh": "אַרְנוֹן",
+        "Translation": "Arnon"
+    },
+    {
+        "Word": "אֲדַבֵּֽר",
+        "Shoresh": "דָּבַר",
+        "Translation": "speak"
+    },
+    {
+        "Word": "אֵילִֽים",
+        "Shoresh": "אַ֫יִל",
+        "Translation": "ram"
+    },
+    {
+        "Word": "אֶקֹּב",
+        "Shoresh": "נָקַב",
+        "Translation": "pierced"
+    },
+    {
+        "Word": "אֶזְעֹם",
+        "Shoresh": "זָעַם",
+        "Translation": "raged"
+    },
+    {
+        "Word": "אֶרְאֶנּוּ",
+        "Shoresh": "רָאָה",
+        "Translation": "saw"
+    },
+    {
+        "Word": "אֲשׁוּרֶנּוּ",
+        "Shoresh": "שׁוּר",
+        "Translation": "behold"
+    },
+    {
+        "Word": "אַחֲרִיתִי",
+        "Shoresh": "אַחֲרִית",
+        "Translation": "end"
+    },
+    {
+        "Word": "אֹיְבַי",
+        "Shoresh": "אָיַב",
+        "Translation": "be an enemy"
+    },
+    {
+        "Word": "אֶשְׁמֹר",
+        "Shoresh": "שָׁמַר",
+        "Translation": "keep"
+    },
+    {
+        "Word": "אִקָּרֶה",
+        "Shoresh": "קָרָה",
+        "Translation": "hear"
+    },
+    {
+        "Word": "אֲשִׁיבֶֽנָּה",
+        "Shoresh": "שׁוּב",
+        "Translation": "he returned"
+    },
+    {
+        "Word": "אָוֶן",
+        "Shoresh": "אָוֶן",
+        "Translation": "iniquity"
+    },
+    {
+        "Word": "אֽ͏ֶעֱשֶֽׂה",
+        "Shoresh": "",
+        "Translation": "take"
+    },
+    {
+        "Word": "אֶקָּחֲךָ",
+        "Shoresh": "לָקַח",
+        "Translation": "make straight"
+    },
+    {
+        "Word": "אֹהָלֶיךָ",
+        "Shoresh": "אֹהֶל",
+        "Translation": "tent"
+    },
+    {
+        "Word": "אָרֽוּר",
+        "Shoresh": "אָרוּר",
+        "Translation": "cursed"
+    },
+    {
+        "Word": "אֹֽיְבַי",
+        "Shoresh": "אָיַב",
+        "Translation": "he was an enemy"
+    },
+    {
+        "Word": "אֹיְבָיו",
+        "Shoresh": "אָיַב",
+        "Translation": "strength"
+    },
+    {
+        "Word": "אֵיתָן",
+        "Shoresh": "אֵיתָן",
+        "Translation": "enduring"
+    },
+    {
+        "Word": "אֲנָשָׁיו",
+        "Shoresh": "אִישׁ",
+        "Translation": "man"
+    },
+    {
+        "Word": "אֻמּוֹת",
+        "Shoresh": "אַמָּה",
+        "Translation": "he bound"
+    },
+    {
+        "Word": "אֱלִיאָֽב",
+        "Shoresh": "אֱלִיאָב",
+        "Translation": "Eliab"
+    },
+    {
+        "Word": "אִיעֶזֶר",
+        "Shoresh": "אִיעֶזֶר",
+        "Translation": "Iezer"
+    },
+    {
+        "Word": "אַרְדְּ",
+        "Shoresh": "אַרְדְּ",
+        "Translation": "Ard"
+    },
+    {
+        "Word": "אִיתָמָֽר",
+        "Shoresh": "אִיתָמָר",
+        "Translation": "Ithamar"
+    },
+    {
+        "Word": "אִסָּר",
+        "Shoresh": "אֱסָר",
+        "Translation": "bond"
+    },
+    {
+        "Word": "אֽ͏ָסְרָה",
+        "Shoresh": "",
+        "Translation": "vow"
+    },
+    {
+        "Word": "אָסְרָה",
+        "Shoresh": "אָסַר",
+        "Translation": "hearken"
+    },
+    {
+        "Word": "אוֹתָהּ",
+        "Shoresh": "אֵת",
+        "Translation": "he broke"
+    },
+    {
+        "Word": "אֱסָרֶיהָ",
+        "Shoresh": "אֱסָר",
+        "Translation": "Bind"
+    },
+    {
+        "Word": "אֱוִי",
+        "Shoresh": "אֱוִי",
+        "Translation": "Avvite"
+    },
+    {
+        "Word": "אָחֻז",
+        "Shoresh": "אָחַז",
+        "Translation": "he grasped"
+    },
+    {
+        "Word": "אֲלָפִֽים",
+        "Shoresh": "אֶלֶף",
+        "Translation": "thousand"
+    },
+    {
+        "Word": "אָלֶף",
+        "Shoresh": "אֶלֶף",
+        "Translation": "thousand"
+    },
+    {
+        "Word": "אֶצְעָדָה",
+        "Shoresh": "אֶצְעָדָה",
+        "Translation": "anklet"
+    },
+    {
+        "Word": "אֶלְעָלֵא",
+        "Shoresh": "אֶלְעָלֵא",
+        "Translation": "habitation"
+    },
+    {
+        "Word": "אֵתָם",
+        "Shoresh": "אֵתָם",
+        "Translation": "rams"
+    },
+    {
+        "Word": "אַדָּר",
+        "Shoresh": "אַדָּר",
+        "Translation": "strong"
+    },
+    {
+        "Word": "אֱלִידָד",
+        "Shoresh": "אֱלִידָד",
+        "Translation": "Elidad"
+    },
+    {
+        "Word": "אֵפֹֽד",
+        "Shoresh": "אֵפוֹד",
+        "Translation": "ephod"
+    },
+    {
+        "Word": "אֱלִיצָפָן",
+        "Shoresh": "אֱלִיצָפָן",
+        "Translation": "Elizaphan"
+    },
+    {
+        "Word": "אֲחִיהוּד",
+        "Shoresh": "אֲחִיהוּד",
+        "Translation": "Ahihud"
+    },
+    {
+        "Word": "אֵיבָה",
+        "Shoresh": "אֵיבָה",
+        "Translation": "enmity"
+    },
+    {
+        "Word": "אֲבֽוֹתֵכֶם",
+        "Shoresh": "אָב",
+        "Translation": "he blessed"
+    },
+    {
+        "Word": "אֵיכָה",
+        "Shoresh": "אֵיכָה",
+        "Translation": "he lifted"
+    },
+    {
+        "Word": "אֲלֵיהֶֽן",
+        "Shoresh": "אֵל",
+        "Translation": "to"
+    },
+    {
+        "Word": "אֲבִיתֶם",
+        "Shoresh": "אָבָה",
+        "Translation": "be willing"
+    },
+    {
+        "Word": "אֵֽינְכֶם",
+        "Shoresh": "אַיִן",
+        "Translation": "there is not"
+    },
+    {
+        "Word": "אֵמִֽים",
+        "Shoresh": "אֵימִים",
+        "Translation": "terrors"
+    },
+    {
+        "Word": "אָחֵל",
+        "Shoresh": "חָלַל",
+        "Translation": "profaned"
+    },
+    {
+        "Word": "אֶֽעֱבֹר",
+        "Shoresh": "עָבַר",
+        "Translation": "be strong"
+    },
+    {
+        "Word": "אַרְגֹּב",
+        "Shoresh": "אַרְגֹּב",
+        "Translation": "Argob"
+    },
+    {
+        "Word": "אַשְׁדֹּת",
+        "Shoresh": "אֲשֵׁדָה",
+        "Translation": "slope"
+    },
+    {
+        "Word": "אֵינְכֶם",
+        "Shoresh": "אַיִן",
+        "Translation": "there is not"
+    },
+    {
+        "Word": "אֱלֹהֶֽיךָ",
+        "Shoresh": "אֱלֹהִים",
+        "Translation": "Hashem"
+    },
+    {
+        "Word": "אֹכְלָה",
+        "Shoresh": "אָכַל",
+        "Translation": "ate"
+    },
+    {
+        "Word": "אָבֹד",
+        "Shoresh": "אָבַד",
+        "Translation": "perished"
+    },
+    {
+        "Word": "אִשּׁוֹ",
+        "Shoresh": "אֵשׁ",
+        "Translation": "fire"
+    },
+    {
+        "Word": "אַרְצָם",
+        "Shoresh": "אֶ֫רֶץ",
+        "Translation": "land"
+    },
+    {
+        "Word": "אוֹתֹת",
+        "Shoresh": "אוֹת",
+        "Translation": "sign"
+    },
+    {
+        "Word": "אַדְמָתֶךָ",
+        "Shoresh": "אֲדָמָה",
+        "Translation": "ground"
+    },
+    {
+        "Word": "אֲלָפֶיךָ",
+        "Shoresh": "אֶלֶף",
+        "Translation": "thousand"
+    },
+    {
+        "Word": "אֲבֹד",
+        "Shoresh": "אָבַד",
+        "Translation": "perished"
+    },
+    {
+        "Word": "אֲבָנֶיהָ",
+        "Shoresh": "אֶבֶן",
+        "Translation": "stone"
+    },
+    {
+        "Word": "אֹֽכְלָה",
+        "Shoresh": "אָכַל",
+        "Translation": "to eat"
+    },
+    {
+        "Word": "אָֽתָּה",
+        "Shoresh": "אַתָּ֫ה",
+        "Translation": "to be angry"
+    },
+    {
+        "Word": "אָכַלְתִּי",
+        "Shoresh": "אָכַל",
+        "Translation": "he ate"
+    },
+    {
+        "Word": "אֹֽתֹתָיו",
+        "Shoresh": "אוֹת",
+        "Translation": "sign"
+    },
+    {
+        "Word": "אָהֳלֵיהֶם",
+        "Shoresh": "אֹהֶל",
+        "Translation": "tent"
+    },
+    {
+        "Word": "אַחֲרִית",
+        "Shoresh": "אַחֲרִית",
+        "Translation": "end"
+    },
+    {
+        "Word": "אֵלוֹנֵי",
+        "Shoresh": "אֵלוֹן",
+        "Translation": "teacher"
+    },
+    {
+        "Word": "אַבֵּד",
+        "Shoresh": "אָבַד",
+        "Translation": "he perished"
+    },
+    {
+        "Word": "אַוַּת",
+        "Shoresh": "אַוָּה",
+        "Translation": "desired"
+    },
+    {
+        "Word": "אֲכֹל",
+        "Shoresh": "אָכַל",
+        "Translation": "he ate"
+    },
+    {
+        "Word": "אֹֽהֲבִים",
+        "Shoresh": "אָהֵב",
+        "Translation": "loved"
+    },
+    {
+        "Word": "אַיָּל",
+        "Shoresh": "אַיָּל",
+        "Translation": "deer"
+    },
+    {
+        "Word": "אֶבְיוֹן",
+        "Shoresh": "אֶבְיוֹן",
+        "Translation": "poor"
+    },
+    {
+        "Word": "אֲהֵֽבְךָ",
+        "Shoresh": "אָהֵב",
+        "Translation": "he loved"
+    },
+    {
+        "Word": "אֲשֵׁרָה",
+        "Shoresh": "אֲשֵׁרָה",
+        "Translation": "Asherah"
+    },
+    {
+        "Word": "אָשִׂימָה",
+        "Shoresh": "שׂוּם",
+        "Translation": "to set"
+    },
+    {
+        "Word": "אֹסֵף",
+        "Shoresh": "יָסַף",
+        "Translation": "add"
+    },
+    {
+        "Word": "אֲצַוֶּֽנּוּ",
+        "Shoresh": "צָוָה",
+        "Translation": "command"
+    },
+    {
+        "Word": "אֵרַשׂ",
+        "Shoresh": "ארשׂ",
+        "Translation": "betrothed"
+    },
+    {
+        "Word": "אֲהוּבָה",
+        "Shoresh": "אָהֵב",
+        "Translation": "love"
+    },
+    {
+        "Word": "אֹנוֹ",
+        "Shoresh": "אוֹן",
+        "Translation": "strength"
+    },
+    {
+        "Word": "אֲבֵדַת",
+        "Shoresh": "אֲבֵדָה",
+        "Translation": "loss"
+    },
+    {
+        "Word": "אֶפְרֹחִים",
+        "Shoresh": "אֶפְרֹחַ",
+        "Translation": "young bird"
+    },
+    {
+        "Word": "אֲזֵנֶךָ",
+        "Shoresh": "אָזֵן",
+        "Translation": "he listened"
+    },
+    {
+        "Word": "אֲדֹנָֽיו",
+        "Shoresh": "אֲדֹנָי",
+        "Translation": "my lord"
+    },
+    {
+        "Word": "אֶתְנַן",
+        "Shoresh": "אֶתְנַן",
+        "Translation": "hire"
+    },
+    {
+        "Word": "אִיש",
+        "Shoresh": "אִישׁ",
+        "Translation": "man"
+    },
+    {
+        "Word": "אַלְמָנָֽה",
+        "Shoresh": "אַלְמָנָה",
+        "Translation": "widow"
+    },
+    {
+        "Word": "אֵיפָה",
+        "Shoresh": "אֵיפָהI",
+        "Translation": "ephah"
+    },
+    {
+        "Word": "אֲרַמִּי",
+        "Shoresh": "אֲרַמִּי",
+        "Translation": "perishing"
+    },
+    {
+        "Word": "אֹבֵד",
+        "Shoresh": "אֹבֵד",
+        "Translation": "man"
+    },
+    {
+        "Word": "אֱלֹהֵֽי",
+        "Shoresh": "אֱלֹהִים",
+        "Translation": "Hashem"
+    },
+    {
+        "Word": "אוֹצָרוֹ",
+        "Shoresh": "אוֹצָר",
+        "Translation": "borrow"
+    },
+    {
+        "Word": "אֲבָדְךָ",
+        "Shoresh": "אָבַד",
+        "Translation": "perished"
+    },
+    {
+        "Word": "אָבְדֶֽךָ",
+        "Shoresh": "אָבַד",
+        "Translation": "perished"
+    },
+    {
+        "Word": "אָבָק",
+        "Shoresh": "אָבָק",
+        "Translation": "destroyed"
+    },
+    {
+        "Word": "אַדְמָֽתְךָ",
+        "Shoresh": "אֲדָמָה",
+        "Translation": "he knew"
+    },
+    {
+        "Word": "אֹיְבֶֽךָ",
+        "Shoresh": "אָיַב",
+        "Translation": "was hostile"
+    },
+    {
+        "Word": "אֹיִבְךָ",
+        "Shoresh": "אָיַב",
+        "Translation": "he was an enemy"
+    },
+    {
+        "Word": "אָלוֹת",
+        "Shoresh": "אָלָה",
+        "Translation": "oath"
+    },
+    {
+        "Word": "אַרְצָהּ",
+        "Shoresh": "אֶ֫רֶץ",
+        "Translation": "sowed"
+    },
+    {
+        "Word": "אֲבֹתֶֽיךָ",
+        "Shoresh": "אָב",
+        "Translation": "father"
+    },
+    {
+        "Word": "אֱלֹהַי",
+        "Shoresh": "אֱלֹהִים",
+        "Translation": "Hashem"
+    },
+    {
+        "Word": "אַסְתִּיר",
+        "Shoresh": "סָתַר",
+        "Translation": "he hid"
+    },
+    {
+        "Word": "אֲחֵרִֽים",
+        "Shoresh": "אַחֵר",
+        "Translation": "other"
+    },
+    {
+        "Word": "אֶקְרָא",
+        "Shoresh": "קָרָא",
+        "Translation": "called"
+    },
+    {
+        "Word": "אֶבְרָתֽוֹ",
+        "Shoresh": "אֶבְרָה",
+        "Translation": "pinion"
+    },
+    {
+        "Word": "אָרֶץ",
+        "Shoresh": "אֶ֫רֶץ",
+        "Translation": "my fields"
+    },
+    {
+        "Word": "אֱלוֹהַ",
+        "Shoresh": "",
+        "Translation": "he made"
+    },
+    {
+        "Word": "אֱלֹהַ",
+        "Shoresh": "",
+        "Translation": "new"
+    },
+    {
+        "Word": "אַסְתִּירָה",
+        "Shoresh": "סָתַר",
+        "Translation": "end"
+    },
+    {
+        "Word": "אַחֲרִיתָם",
+        "Shoresh": "אַחֲרִית",
+        "Translation": "generation"
+    },
+    {
+        "Word": "אֵמֻן",
+        "Shoresh": "אֵמֻן",
+        "Translation": "faith"
+    },
+    {
+        "Word": "אַקְנִיאֵם",
+        "Shoresh": "קָנָא",
+        "Translation": "jealous"
+    },
+    {
+        "Word": "אַכְעִיסֵֽם",
+        "Shoresh": "כַּעַס",
+        "Translation": "anger"
+    },
+    {
+        "Word": "אַסְפֶּה",
+        "Shoresh": "סָפָה",
+        "Translation": "edge"
+    },
+    {
+        "Word": "אַפְאֵיהֶם",
+        "Shoresh": "פָּאָה",
+        "Translation": "corner"
+    },
+    {
+        "Word": "אַשְׁבִּיתָה",
+        "Shoresh": "שָׁבַת",
+        "Translation": "he ceased"
+    },
+    {
+        "Word": "אָגוּר",
+        "Shoresh": "גּוּר",
+        "Translation": "cub"
+    },
+    {
+        "Word": "אֹבַד",
+        "Shoresh": "אָבַד",
+        "Translation": "perish"
+    },
+    {
+        "Word": "אַשְׁכְּלֹת",
+        "Shoresh": "אֶשְׁכּוֹל",
+        "Translation": "cluster"
+    },
+    {
+        "Word": "אַכְזָֽר",
+        "Shoresh": "אַכְזָר",
+        "Translation": "cruel"
+    },
+    {
+        "Word": "אֵידָם",
+        "Shoresh": "אֵיד",
+        "Translation": "calamity"
+    },
+    {
+        "Word": "אָזְלַת",
+        "Shoresh": "אָזַל",
+        "Translation": "detained"
+    },
+    {
+        "Word": "אָמִית",
+        "Shoresh": "מוּת",
+        "Translation": "die"
+    },
+    {
+        "Word": "אֶרְפָּא",
+        "Shoresh": "רָפָא",
+        "Translation": "healed"
+    },
+    {
+        "Word": "אֲשַׁלֵּֽם",
+        "Shoresh": "שָׁלֵם",
+        "Translation": "completed"
+    },
+    {
+        "Word": "אַשְׁכִּיר",
+        "Shoresh": "שָׂכַר",
+        "Translation": "hired"
+    },
+    {
+        "Word": "אַדְמָתוֹ",
+        "Shoresh": "אֲדָמָה",
+        "Translation": "ground"
+    },
+    {
+        "Word": "אוֹתִי",
+        "Shoresh": "אֵת",
+        "Translation": "with"
+    },
+    {
+        "Word": "אִמְרָתֶךָ",
+        "Shoresh": "אִמְרָה",
+        "Translation": "covenant"
+    },
+    {
+        "Word": "אַפְסֵי",
+        "Shoresh": "אֶ֫פֶס",
+        "Translation": "nothingness"
+    },
+    {
+        "Word": "אַשְׁרֶיךָ",
+        "Shoresh": "אֶ֫שֶׁר",
+        "Translation": "save"
+    }
+]

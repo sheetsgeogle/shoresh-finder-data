@@ -1,0 +1,887 @@
+[
+    {
+        "Word": "צְבָאָֽם",
+        "Shoresh": "צָבָא",
+        "Translation": "host"
+    },
+    {
+        "Word": "צִוִּיתִיךָ",
+        "Shoresh": "צָוָה",
+        "Translation": "except"
+    },
+    {
+        "Word": "צֹאן",
+        "Shoresh": "צֹאן",
+        "Translation": "flock"
+    },
+    {
+        "Word": "צֹאנוֹ",
+        "Shoresh": "צֹאן",
+        "Translation": "flock"
+    },
+    {
+        "Word": "צֹעֲקִים",
+        "Shoresh": "צָעַק",
+        "Translation": "cried out"
+    },
+    {
+        "Word": "צִלָּֽה",
+        "Shoresh": "צִלָּהI",
+        "Translation": "overshadowed"
+    },
+    {
+        "Word": "צַדִּיק",
+        "Shoresh": "צַדִּיק",
+        "Translation": "he walked"
+    },
+    {
+        "Word": "צֹהַר",
+        "Shoresh": "צֹהַר",
+        "Translation": "window"
+    },
+    {
+        "Word": "צִפּוֹר",
+        "Shoresh": "צִפּוֹר",
+        "Translation": "bird"
+    },
+    {
+        "Word": "צֵא",
+        "Shoresh": "צֵא",
+        "Translation": "go out"
+    },
+    {
+        "Word": "צִידֹן",
+        "Shoresh": "צִידוֹן",
+        "Translation": "Sidon"
+    },
+    {
+        "Word": "צֹֽעַר",
+        "Shoresh": "צֹ֫עַר",
+        "Translation": "Zoar"
+    },
+    {
+        "Word": "צָפֹנָה",
+        "Shoresh": "צָפוֹן",
+        "Translation": "east"
+    },
+    {
+        "Word": "צֹעַר",
+        "Shoresh": "צֹ֫עַר",
+        "Translation": "valley"
+    },
+    {
+        "Word": "צֶדֶק",
+        "Shoresh": "צֶדֶק",
+        "Translation": "righteousness"
+    },
+    {
+        "Word": "צְדָקָֽה",
+        "Shoresh": "צְדָקָה",
+        "Translation": "he went out"
+    },
+    {
+        "Word": "צָחֲקָה",
+        "Shoresh": "צָחַק",
+        "Translation": "indeed"
+    },
+    {
+        "Word": "צָחַקְתִּי",
+        "Shoresh": "צָחַק",
+        "Translation": "he laughed"
+    },
+    {
+        "Word": "צְדָקָה",
+        "Shoresh": "צְדָקָה",
+        "Translation": "come"
+    },
+    {
+        "Word": "צַדִּיקִם",
+        "Shoresh": "צַדִּיק",
+        "Translation": "righteous"
+    },
+    {
+        "Word": "צַעֲקָתָם",
+        "Shoresh": "צְעָקָה",
+        "Translation": "sent"
+    },
+    {
+        "Word": "צְּאוּ",
+        "Shoresh": "יָצָא",
+        "Translation": "went out"
+    },
+    {
+        "Word": "צֽוֹעַר",
+        "Shoresh": "צוֹעַר",
+        "Translation": "was small"
+    },
+    {
+        "Word": "צֹֽעֲרָה",
+        "Shoresh": "צֹ֫עַר",
+        "Translation": "smallness"
+    },
+    {
+        "Word": "צְחֹק",
+        "Shoresh": "צְחֹק",
+        "Translation": "laughter"
+    },
+    {
+        "Word": "צְבָאוֹ",
+        "Shoresh": "צָבָא",
+        "Translation": "army"
+    },
+    {
+        "Word": "צֹֽחַר",
+        "Shoresh": "צֹ֫חַר",
+        "Translation": "noon"
+    },
+    {
+        "Word": "צֵאת",
+        "Shoresh": "יָצָא",
+        "Translation": "he drew"
+    },
+    {
+        "Word": "צְמִידִים",
+        "Shoresh": "צָמִיד",
+        "Translation": "hand"
+    },
+    {
+        "Word": "צֹחַר",
+        "Shoresh": "צֹ֫חַר",
+        "Translation": "noon"
+    },
+    {
+        "Word": "צָעִֽיר",
+        "Shoresh": "צָעִיר",
+        "Translation": "young"
+    },
+    {
+        "Word": "צְבָאֽוֹ",
+        "Shoresh": "צָבָא",
+        "Translation": "host"
+    },
+    {
+        "Word": "צַוָּארָֽיו",
+        "Shoresh": "צַוָּאר",
+        "Translation": "neck"
+    },
+    {
+        "Word": "צְעָקָה",
+        "Shoresh": "צְעָקָה",
+        "Translation": "cry"
+    },
+    {
+        "Word": "צַוָּארֶֽךָ",
+        "Shoresh": "צַוָּאר",
+        "Translation": "neck"
+    },
+    {
+        "Word": "צֹֽאנְךָ",
+        "Shoresh": "צֹאן",
+        "Translation": "flock"
+    },
+    {
+        "Word": "צִדְקָתִי",
+        "Shoresh": "צְדָקָה",
+        "Translation": "righteousness"
+    },
+    {
+        "Word": "צֹאנֽוֹ",
+        "Shoresh": "צֹאן",
+        "Translation": "flock"
+    },
+    {
+        "Word": "צֹאנְךָ",
+        "Shoresh": "צֹאן",
+        "Translation": "flock"
+    },
+    {
+        "Word": "צֹאנִי",
+        "Shoresh": "צֹאן",
+        "Translation": "flock"
+    },
+    {
+        "Word": "צֹלֵעַ",
+        "Shoresh": "צָלַע",
+        "Translation": "he limped"
+    },
+    {
+        "Word": "צַוָּארָו",
+        "Shoresh": "צַוָּאר",
+        "Translation": "he kissed"
+    },
+    {
+        "Word": "צֹאנָם",
+        "Shoresh": "צֹאן",
+        "Translation": "flock"
+    },
+    {
+        "Word": "צָֽרָתִי",
+        "Shoresh": "צָרָה",
+        "Translation": "distress"
+    },
+    {
+        "Word": "צִבְעוֹן",
+        "Shoresh": "צִבְעוֹןI",
+        "Translation": "Zibeon"
+    },
+    {
+        "Word": "צְפוֹ",
+        "Shoresh": "צְפוֹ",
+        "Translation": "Ga'tam"
+    },
+    {
+        "Word": "צְעִיפָהּ",
+        "Shoresh": "צָעִיף",
+        "Translation": "upon"
+    },
+    {
+        "Word": "צָֽדְקָה",
+        "Shoresh": "צָדֵק",
+        "Translation": "be just"
+    },
+    {
+        "Word": "צֹמְחוֹת",
+        "Shoresh": "צָמַח",
+        "Translation": "grew"
+    },
+    {
+        "Word": "צְנֻמוֹת",
+        "Shoresh": "צָנַם",
+        "Translation": "withered"
+    },
+    {
+        "Word": "צַוָּארֽוֹ",
+        "Shoresh": "צַוָּאר",
+        "Translation": "neck"
+    },
+    {
+        "Word": "צָֽפְנַת",
+        "Shoresh": "צָפְנַת",
+        "Translation": "Zaphnath"
+    },
+    {
+        "Word": "צָרַת",
+        "Shoresh": "צָרָה",
+        "Translation": "distress"
+    },
+    {
+        "Word": "צֵדָה",
+        "Shoresh": "צֵדָה",
+        "Translation": "provision"
+    },
+    {
+        "Word": "צְרוֹר",
+        "Shoresh": "צְרוֹרI",
+        "Translation": "sack"
+    },
+    {
+        "Word": "צְרֹרוֹת",
+        "Shoresh": "צְרוֹר",
+        "Translation": "father"
+    },
+    {
+        "Word": "צֳרִי",
+        "Shoresh": "צְרִי",
+        "Translation": "balm"
+    },
+    {
+        "Word": "צַוְּארֵי",
+        "Shoresh": "צַוָּאר",
+        "Translation": "neck"
+    },
+    {
+        "Word": "צֻוֵּיתָה",
+        "Shoresh": "צָוָה",
+        "Translation": "he commanded"
+    },
+    {
+        "Word": "צִפְיוֹן",
+        "Shoresh": "צִפְיוֹן",
+        "Translation": "Zephon"
+    },
+    {
+        "Word": "צַוָּארָיו",
+        "Shoresh": "צַוָּאר",
+        "Translation": "neck"
+    },
+    {
+        "Word": "צֹֽאן",
+        "Shoresh": "צֹאן",
+        "Translation": "flock"
+    },
+    {
+        "Word": "צִידֹֽן",
+        "Shoresh": "צִידוֹן",
+        "Translation": "Sidon"
+    },
+    {
+        "Word": "צָעֲדָה",
+        "Shoresh": "צָעַד",
+        "Translation": "he stepped"
+    },
+    {
+        "Word": "צִוָּֽם",
+        "Shoresh": "צָוָה",
+        "Translation": "he commanded"
+    },
+    {
+        "Word": "צֹאנָֽם",
+        "Shoresh": "צֹאן",
+        "Translation": "flock"
+    },
+    {
+        "Word": "צִפֹּרָה",
+        "Shoresh": "צִפּוֹרָה",
+        "Translation": "Tzipporah"
+    },
+    {
+        "Word": "צַעֲקַת",
+        "Shoresh": "צְעָקָה",
+        "Translation": "cry"
+    },
+    {
+        "Word": "צֹר",
+        "Shoresh": "צֹר",
+        "Translation": "to bind"
+    },
+    {
+        "Word": "צִוָּֽהוּ",
+        "Shoresh": "צָוָה",
+        "Translation": "gathered"
+    },
+    {
+        "Word": "צֹֽעֲקִים",
+        "Shoresh": "צָעַק",
+        "Translation": "cried out"
+    },
+    {
+        "Word": "צִבְאֹתָֽם",
+        "Shoresh": "צָבָא",
+        "Translation": "host"
+    },
+    {
+        "Word": "צִבְאֹתַי",
+        "Shoresh": "צָבָא",
+        "Translation": "host"
+    },
+    {
+        "Word": "צְפַרְדְּעִים",
+        "Shoresh": "צְפַרְדֵּעַ",
+        "Translation": "frog"
+    },
+    {
+        "Word": "צֹאנְכֶם",
+        "Shoresh": "צֹאן",
+        "Translation": "flock"
+    },
+    {
+        "Word": "צְלִי",
+        "Shoresh": "צָלִי",
+        "Translation": "bitter"
+    },
+    {
+        "Word": "צִבְאוֹתֵיכֶם",
+        "Shoresh": "צָבָא",
+        "Translation": "army"
+    },
+    {
+        "Word": "צְרֻרֹת",
+        "Shoresh": "צָרַר",
+        "Translation": "bind"
+    },
+    {
+        "Word": "צִבְאוֹת",
+        "Shoresh": "צָבָא",
+        "Translation": "host"
+    },
+    {
+        "Word": "צְפֹֽן",
+        "Shoresh": "צָפַן",
+        "Translation": "eye"
+    },
+    {
+        "Word": "צָֽלֲלוּ",
+        "Shoresh": "צָלַל",
+        "Translation": "sank"
+    },
+    {
+        "Word": "צִנְצֶנֶת",
+        "Shoresh": "צִנְצֶנֶת",
+        "Translation": "jar"
+    },
+    {
+        "Word": "צָדָה",
+        "Shoresh": "צָדָה",
+        "Translation": "He afflicted"
+    },
+    {
+        "Word": "צָעֹק",
+        "Shoresh": "צָעַק",
+        "Translation": "cried out"
+    },
+    {
+        "Word": "צַעֲקָתֽוֹ",
+        "Shoresh": "צְעָקָה",
+        "Translation": "cry"
+    },
+    {
+        "Word": "צַדִּיקִֽים",
+        "Shoresh": "צַדִּיק",
+        "Translation": "righteous"
+    },
+    {
+        "Word": "צִוִּיתִךָ",
+        "Shoresh": "צָוָה",
+        "Translation": "commanded"
+    },
+    {
+        "Word": "צֹרְרֶֽיךָ",
+        "Shoresh": "צָרַר",
+        "Translation": "he was hostile"
+    },
+    {
+        "Word": "צַלְעוֹ",
+        "Shoresh": "צֵלָע",
+        "Translation": "side"
+    },
+    {
+        "Word": "צַלְעֹת",
+        "Shoresh": "צֵלָע",
+        "Translation": "rib"
+    },
+    {
+        "Word": "צִדֵּי",
+        "Shoresh": "צַד",
+        "Translation": "side"
+    },
+    {
+        "Word": "צָפוֹן",
+        "Shoresh": "צָפוֹן",
+        "Translation": "north"
+    },
+    {
+        "Word": "צֶֽלַע",
+        "Shoresh": "צֶלַע",
+        "Translation": "rib"
+    },
+    {
+        "Word": "צֶלַע",
+        "Shoresh": "צֶלַע",
+        "Translation": "rib"
+    },
+    {
+        "Word": "צָפֽוֹן",
+        "Shoresh": "צָפוֹן",
+        "Translation": "screen"
+    },
+    {
+        "Word": "צִּיץ",
+        "Shoresh": "צִיץ",
+        "Translation": "blossom"
+    },
+    {
+        "Word": "צִוִּיתִי",
+        "Shoresh": "צָוָה",
+        "Translation": "command"
+    },
+    {
+        "Word": "צַלְעֹתָיו",
+        "Shoresh": "צֵלָע",
+        "Translation": "side"
+    },
+    {
+        "Word": "צִדָּיו",
+        "Shoresh": "צַד",
+        "Translation": "side"
+    },
+    {
+        "Word": "צִוִּיתִֽךָ",
+        "Shoresh": "צָוָה",
+        "Translation": "ark"
+    },
+    {
+        "Word": "צִוִּיתִם",
+        "Shoresh": "צָוָה",
+        "Translation": "he sacrificed"
+    },
+    {
+        "Word": "צֵאתוֹ",
+        "Shoresh": "יָצָא",
+        "Translation": "went out"
+    },
+    {
+        "Word": "צִפָּה",
+        "Shoresh": "צָפָה",
+        "Translation": "overlaid"
+    },
+    {
+        "Word": "צָֽבְאוּ",
+        "Shoresh": "צָבָא",
+        "Translation": "host"
+    },
+    {
+        "Word": "צִיץ",
+        "Shoresh": "צִיץ",
+        "Translation": "blossom"
+    },
+    {
+        "Word": "צַו",
+        "Shoresh": "צָוָה",
+        "Translation": "commanded"
+    },
+    {
+        "Word": "צַוֺּתוֹ",
+        "Shoresh": "צָוָה",
+        "Translation": "he commanded"
+    },
+    {
+        "Word": "צִוֵּיתִי",
+        "Shoresh": "צָוָה",
+        "Translation": "he commanded"
+    },
+    {
+        "Word": "צֻוֵּֽיתִי",
+        "Shoresh": "צָוָה",
+        "Translation": "he commanded"
+    },
+    {
+        "Word": "צִוֵּֽיתִי",
+        "Shoresh": "צָוָה",
+        "Translation": "he commanded"
+    },
+    {
+        "Word": "צָרָעַת",
+        "Shoresh": "צָרַ֫עַת",
+        "Translation": "leprosy"
+    },
+    {
+        "Word": "צָרַעַת",
+        "Shoresh": "צָרַעַת",
+        "Translation": "leprosy"
+    },
+    {
+        "Word": "צָרֶבֶת",
+        "Shoresh": "צָרֶבֶת",
+        "Translation": "burning"
+    },
+    {
+        "Word": "צָהֹב",
+        "Shoresh": "צָהֹב",
+        "Translation": "yellow"
+    },
+    {
+        "Word": "צָֽמַח",
+        "Shoresh": "צָמַח",
+        "Translation": "sprouted"
+    },
+    {
+        "Word": "צָרוּעַ",
+        "Shoresh": "צָרַע",
+        "Translation": "is afflicted with tzara'at"
+    },
+    {
+        "Word": "צֶמֶר",
+        "Shoresh": "צֶמֶר",
+        "Translation": "wool"
+    },
+    {
+        "Word": "צִפֳּרִים",
+        "Shoresh": "צִפּוֹר",
+        "Translation": "bird"
+    },
+    {
+        "Word": "צֵיד",
+        "Shoresh": "צֵיד",
+        "Translation": "hunting"
+    },
+    {
+        "Word": "צָבָא",
+        "Shoresh": "צָבָא",
+        "Translation": "host"
+    },
+    {
+        "Word": "צוּרִֽישַׁדָּֽי",
+        "Shoresh": "",
+        "Translation": "Amminadab"
+    },
+    {
+        "Word": "צוּעָֽר",
+        "Shoresh": "צוּעָר",
+        "Translation": "Eliab"
+    },
+    {
+        "Word": "צָבָֽא",
+        "Shoresh": "צָבָא",
+        "Translation": "host"
+    },
+    {
+        "Word": "צוּרִֽי",
+        "Shoresh": "צוּר",
+        "Translation": "rock"
+    },
+    {
+        "Word": "צֻוָּֽה",
+        "Shoresh": "צוה",
+        "Translation": "commanded"
+    },
+    {
+        "Word": "צָפֹֽנָה",
+        "Shoresh": "צָפוֹן",
+        "Translation": "north"
+    },
+    {
+        "Word": "צָבָֽה",
+        "Shoresh": "צָבָה",
+        "Translation": "to serve"
+    },
+    {
+        "Word": "צָב",
+        "Shoresh": "צָבI",
+        "Translation": "turtle"
+    },
+    {
+        "Word": "צוּעָר",
+        "Shoresh": "צוּעָר",
+        "Translation": "smallness"
+    },
+    {
+        "Word": "צֽוּר",
+        "Shoresh": "צוּר",
+        "Translation": "rock"
+    },
+    {
+        "Word": "צְבָא",
+        "Shoresh": "צָבָא",
+        "Translation": "host"
+    },
+    {
+        "Word": "צִן",
+        "Shoresh": "צִן",
+        "Translation": "coldness"
+    },
+    {
+        "Word": "צֹעַן",
+        "Shoresh": "צֹ֫עַן",
+        "Translation": "Zoan"
+    },
+    {
+        "Word": "צִלָּם",
+        "Shoresh": "צֵל",
+        "Translation": "shadow"
+    },
+    {
+        "Word": "צִיצִת",
+        "Shoresh": "צִיצִת",
+        "Translation": "tassel"
+    },
+    {
+        "Word": "צִפּוּי",
+        "Shoresh": "צִפּוּי",
+        "Translation": "consecrated"
+    },
+    {
+        "Word": "צָמִיד",
+        "Shoresh": "צָמִיד",
+        "Translation": "bracelet"
+    },
+    {
+        "Word": "צִפֹּר",
+        "Shoresh": "צִפּוֹר",
+        "Translation": "bird"
+    },
+    {
+        "Word": "צָר",
+        "Shoresh": "צור",
+        "Translation": "rock"
+    },
+    {
+        "Word": "צֻרִים",
+        "Shoresh": "צוּר",
+        "Translation": "rock"
+    },
+    {
+        "Word": "צֹפִים",
+        "Shoresh": "צָפָה",
+        "Translation": "behold"
+    },
+    {
+        "Word": "צִפֹּֽר",
+        "Shoresh": "צִפּוֹר",
+        "Translation": "arise"
+    },
+    {
+        "Word": "צָרָיו",
+        "Shoresh": "צַר",
+        "Translation": "distress"
+    },
+    {
+        "Word": "צוּר",
+        "Shoresh": "צוּר",
+        "Translation": "cubit"
+    },
+    {
+        "Word": "צָרוֹר",
+        "Shoresh": "צָרַר",
+        "Translation": "Midianite"
+    },
+    {
+        "Word": "צֹרְרִים",
+        "Shoresh": "צָרַר",
+        "Translation": "deceit"
+    },
+    {
+        "Word": "צְלָפְחָד",
+        "Shoresh": "צְלָפְחָד",
+        "Translation": "Zelophehad"
+    },
+    {
+        "Word": "צִֽן",
+        "Shoresh": "צִן",
+        "Translation": "he went out"
+    },
+    {
+        "Word": "צְפוֹן",
+        "Shoresh": "צָפוֹן",
+        "Translation": "midst"
+    },
+    {
+        "Word": "צִנָה",
+        "Shoresh": "צִן",
+        "Translation": "thorn"
+    },
+    {
+        "Word": "צְדָֽדָה",
+        "Shoresh": "צְדָד",
+        "Translation": "side"
+    },
+    {
+        "Word": "צְדִיָּֽה",
+        "Shoresh": "צְדִיָּה",
+        "Translation": "lying in wait"
+    },
+    {
+        "Word": "צֻוָּה",
+        "Shoresh": "צוה",
+        "Translation": "commanded"
+    },
+    {
+        "Word": "צְלָפְחָֽד",
+        "Shoresh": "צְלָפְחָד",
+        "Translation": "Zelophehad"
+    },
+    {
+        "Word": "צִוָּנוּ",
+        "Shoresh": "צָוָה",
+        "Translation": "commanded"
+    },
+    {
+        "Word": "צִידֹנִים",
+        "Shoresh": "צִידֹנִי",
+        "Translation": "Sidonian"
+    },
+    {
+        "Word": "צִוַּנִי",
+        "Shoresh": "צָוָה",
+        "Translation": "command"
+    },
+    {
+        "Word": "צִוְּךָ",
+        "Shoresh": "צָוָה",
+        "Translation": "commanded"
+    },
+    {
+        "Word": "צִוָּֽךְ",
+        "Shoresh": "צָוָה",
+        "Translation": "commanded"
+    },
+    {
+        "Word": "צִוָּֽנוּ",
+        "Shoresh": "צָוָה",
+        "Translation": "he commanded"
+    },
+    {
+        "Word": "צֹאנֶךָ",
+        "Shoresh": "צֹאן",
+        "Translation": "flock"
+    },
+    {
+        "Word": "צֹאנֶֽךָ",
+        "Shoresh": "צֹאן",
+        "Translation": "ate"
+    },
+    {
+        "Word": "צֵֽאתְךָ",
+        "Shoresh": "יָצָא",
+        "Translation": "morning"
+    },
+    {
+        "Word": "צֶֽדֶק",
+        "Shoresh": "צֶדֶק",
+        "Translation": "righteousness"
+    },
+    {
+        "Word": "צַדִּיקִֽם",
+        "Shoresh": "צַדִּיק",
+        "Translation": "righteous"
+    },
+    {
+        "Word": "צִוִּֽיתִי",
+        "Shoresh": "צָוָה",
+        "Translation": "he told"
+    },
+    {
+        "Word": "צִוִּיתִיו",
+        "Shoresh": "צָוָה",
+        "Translation": "command"
+    },
+    {
+        "Word": "צְבָאוֹת",
+        "Shoresh": "צָבָא",
+        "Translation": "host"
+    },
+    {
+        "Word": "צִפָּרְנֶֽיהָ",
+        "Shoresh": "צִפֹּ֫רֶן",
+        "Translation": "fingernail"
+    },
+    {
+        "Word": "צָעֲקָה",
+        "Shoresh": "צָעַק",
+        "Translation": "cried out"
+    },
+    {
+        "Word": "צֵאָתֶֽךָ",
+        "Shoresh": "צֵאָה",
+        "Translation": "filth"
+    },
+    {
+        "Word": "צִוִּיתָנִי",
+        "Shoresh": "צָוָה",
+        "Translation": "forgot"
+    },
+    {
+        "Word": "צִוִּיתָֽנִי",
+        "Shoresh": "צָוָה",
+        "Translation": "to command"
+    },
+    {
+        "Word": "צַוָּארֶךָ",
+        "Shoresh": "צַוָּאר",
+        "Translation": "neck"
+    },
+    {
+        "Word": "צָרֵימוֹ",
+        "Shoresh": "צַר",
+        "Translation": "distress"
+    },
+    {
+        "Word": "צוּרָם",
+        "Shoresh": "צוּר",
+        "Translation": "besiege"
+    },
+    {
+        "Word": "צִדְקַת",
+        "Shoresh": "צְדָקָה",
+        "Translation": "righteousness"
+    }
+]
